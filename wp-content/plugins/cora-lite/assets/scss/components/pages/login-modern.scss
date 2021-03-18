@@ -1,0 +1,100 @@
+/* Login Page - Standard */
+
+body.login.cora-modern {
+
+    height: fit-content;
+
+    #login {
+        background: var(--secondary_background_color);
+        width: 450px;
+        margin: 0 !important;
+        float: right;
+        height: 100vh;
+        padding: 6% 55px;
+        box-sizing: border-box;
+        overflow-x: hidden;
+
+        h1 {
+            padding: 0px 30px 30px 30px;
+            width: 100%;
+            float: left;
+            box-sizing: border-box;
+            
+            a {
+                margin-bottom: 0;
+                float: left;
+            }
+        }
+
+        form {
+            padding: 30px;
+            margin: 0;
+        }
+
+        .message {
+            float: left;
+        }
+    }
+
+    #backtoblog, #nav {
+        font-size: 13px;
+        padding: 15px 30px;
+        width: 100%;
+        clear: both;
+        box-sizing: border-box;
+        display: inline-block;
+        margin: 0px !important;
+        text-align: center;
+    }
+
+    #backtoblog {
+        padding: 0;
+    }
+
+    #wp-submit {
+        width: 100%;
+        margin-top: 30px;
+        margin-bottom: 10px;    
+    }
+
+    .cora-login-description {
+        width: calc(100% - 450px);
+        float: left;
+        padding: 0% 15%;
+        box-sizing: border-box;
+        height: 100vh;
+    
+        > div {
+            position: relative;
+            top: 45%;
+            -webkit-transform: translateY(-50%);
+            -ms-transform: translateY(-50%);
+            transform: translateY(-50%);
+            
+            h2 {
+                margin-bottom: 30px;
+                font-size: 26px;            
+            }
+            
+            p {
+                font-size: 16px;
+                color: var(--secondary_text_color);            
+            }
+        }
+    }
+
+}
+
+
+// Width Control
+@media screen and (max-width: 900px) {
+
+    body.login.cora-modern {
+    
+        #login {
+            width: 100%;
+        }    
+    
+    }
+
+}

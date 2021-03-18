@@ -1,0 +1,100 @@
+/* Layout */
+
+body {
+    background: var(--primary_background_color);
+    color: var(--primary_text_color);
+}
+
+#wpcontent {
+    margin-left: var(--menu_width);
+    padding: 80px 100px 40px !important;
+}
+
+#dashboard-widgets-wrap {
+    overflow: visible;
+}
+
+.folded {
+    #wpcontent, #wpfooter {
+        margin-left: var(--menu_folded_width);
+    }    
+}
+
+@media screen and (max-width: 782px){
+    .auto-fold #wpcontent {
+        position: relative;
+        margin-left: 0;
+        padding: 80px 40px !important;
+    }    
+}
+
+.wrap {
+    margin: 0;
+}
+
+.page-title-action {
+    background: var(--secondary_button_color) !important;
+    color: var(--secondary_button_text) !important;
+    border: none!important;
+    border-radius: 3px !important;
+    font-weight: 400!important;
+    padding: 4px 8px 5px 8px !important;
+    top: -4px !important;
+    font-size: 12px;
+}
+
+#titlediv #title {
+    background-color: var(--primary_background_color);
+}
+
+#major-publishing-actions{
+    background: var(--primary_background_color);
+    border: 0;
+}
+
+.wp-editor-container {
+    border-color: rgba(0, 0, 0, 0.1)!important;
+
+    .quicktags-toolbar {
+        background: var(--primary_background_color) !important;
+        border: none;
+    }
+}
+
+.notification-dialog {
+    background: var(--secondary_background_color);
+}
+
+.card {
+    border: none;
+    box-shadow: none;
+    background: var(--secondary_background_color);
+    border-radius: 5px;
+}
+
+.notice, div.error, div.updated {
+    background-color: var(--secondary_background_color) !important;
+    border-radius: 5px;
+    box-shadow: none;
+    border-right: none;
+    border-top: none;
+    border-bottom: none;
+}
+
+hr {
+    border-top: 1px solid rgba(150, 140, 140, 0.2);
+    border-bottom: 1px solid rgba(150, 140, 140, 0.2);
+}
+
+.cora_footer_info {
+    margin-left: 10px;
+    float: left;
+
+    span {
+        margin-left: 5px;
+        padding: 4px 10px;
+        border-radius: 3px;
+        background: rgba(0, 0, 0, 0.1);
+    }
+
+}

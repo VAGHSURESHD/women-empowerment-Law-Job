@@ -1,0 +1,38 @@
+/* Shadows */
+
+$shadow: 0 10px 10px rgba(0,0,0,.05);
+
+body.cora-shadows {
+
+    .postbox,
+    .stuffbox,
+    #welcome-panel,
+    #screen-meta-links button,
+    #login,
+    .wp-list-table,
+    .media-frame.mode-grid .media-toolbar,
+    .manage-menus,
+    .outer-border,
+    .menu-edit,
+    .comment-ays,
+    .feature-filter,
+    .imgedit-group,
+    .popular-tags,
+    .stuffbox,
+    .widget-liquid-right .widgets-holder-wrap,
+    .wp-editor-container,
+    p.popular-tags,
+    table.widefat,
+    .notice,
+    div.error,
+    div.updated,
+    #fs_connect,
+    &.login #login_error,
+    &.login .message,
+    &.login .success,
+    .update-nag
+    {
+        box-shadow: $shadow !important;
+    }
+
+}

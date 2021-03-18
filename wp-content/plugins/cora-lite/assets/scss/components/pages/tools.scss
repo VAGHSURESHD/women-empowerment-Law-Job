@@ -1,0 +1,49 @@
+/* Tools Page(s) */
+
+.importer-title {
+    color: var(--primary_text_color);
+}
+
+.site-health #wpcontent {
+    padding: 0 !important;
+}
+
+.health-check-header {
+    background: var(--secondary_background_color);
+    border-bottom: none;
+    padding-top: 46px;
+}
+
+.health-check-accordion {
+    border: none;
+}
+
+.health-check-accordion-trigger {
+    background: var(--secondary_background_color);
+    color: var(--secondary_text_color);
+}
+
+.health-check-accordion-heading {
+    border-color: var(--primary_background_color);
+}
+
+.health-check-accordion-trigger:active, .health-check-accordion-trigger:hover {
+    background: var(--secondary_background_color);
+}
+
+.health-check-accordion-trigger .badge {
+    color: var(--secondary_text_color);
+    border-color: rgba(0, 0, 0, 0.1) !important;
+}
+
+.health-check-accordion-panel {
+    background: var(--secondary_background_color);
+}
+
+.privacy_requests tbody td {
+    background: transparent;
+}
+
+.privacy_requests tfoot td:first-child, .privacy_requests thead td:first-child {
+    border-left: none;
+}

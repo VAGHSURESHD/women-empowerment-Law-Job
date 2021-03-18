@@ -1,0 +1,56 @@
+/* Meta Links */
+#screen-meta-links {
+    margin: 0px;
+}
+
+#screen-meta{
+    background-color: var(--secondary_background_color);
+    border: transparent  !important;
+    margin-bottom: 30px;
+    margin-right: 0;
+    border-radius: 5px;
+}
+
+#contextual-help-back{
+    background-color: var(--secondary_background_color);
+    border: 0;
+}
+
+.contextual-help-tabs{
+
+    a:hover{
+        color: var(--secondary_text_color) ;
+    }
+
+    .active{
+        background: var(--primary_background_color);
+
+        a{
+            border: 0;
+            color: var(--primary_text_color);
+        }        
+    }
+
+}
+#screen-meta-links .show-settings:after {
+    display: none;
+}
+
+#screen-meta-links {
+    #contextual-help-link-wrap, #screen-options-link-wrap {
+        margin: 0 0 0 15px;
+    }
+
+    button {
+        background: var(--secondary_background_color)  !important;
+        color: var(--secondary_text_color)  !important;
+        border-radius: 5px  !important;
+        border: transparent  !important;
+        padding: 3px 15px !important;
+        font-size: 12px;
+
+        &:active, &:focus, &:hover {
+            color: #32373c;
+        }
+    }
+}

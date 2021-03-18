@@ -1,0 +1,3638 @@
+[
+	{
+	  "text": "action",
+	  "children": [
+		{
+		  "id": "3d_rotation",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n 3d rotation\n <i class=\"material-icons material-icons-3d_rotation\"></i>\n </div>\n "
+		},
+		{
+		  "id": "accessibility",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n accessibility\n <i class=\"material-icons material-icons-accessibility\"></i>\n </div>\n "
+		},
+		{
+		  "id": "accessible",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n accessible\n <i class=\"material-icons material-icons-accessible\"></i>\n </div>\n "
+		},
+		{
+		  "id": "account_balance",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n account balance\n <i class=\"material-icons material-icons-account_balance\"></i>\n </div>\n "
+		},
+		{
+		  "id": "account_balance_wallet",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n account balance wallet\n <i class=\"material-icons material-icons-account_balance_wallet\"></i>\n </div>\n "
+		},
+		{
+		  "id": "account_box",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n account box\n <i class=\"material-icons material-icons-account_box\"></i>\n </div>\n "
+		},
+		{
+		  "id": "account_circle",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n account circle\n <i class=\"material-icons material-icons-account_circle\"></i>\n </div>\n "
+		},
+		{
+		  "id": "add_shopping_cart",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n add shopping cart\n <i class=\"material-icons material-icons-add_shopping_cart\"></i>\n </div>\n "
+		},
+		{
+		  "id": "alarm",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n alarm\n <i class=\"material-icons material-icons-alarm\"></i>\n </div>\n "
+		},
+		{
+		  "id": "alarm_add",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n alarm add\n <i class=\"material-icons material-icons-alarm_add\"></i>\n </div>\n "
+		},
+		{
+		  "id": "alarm_off",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n alarm off\n <i class=\"material-icons material-icons-alarm_off\"></i>\n </div>\n "
+		},
+		{
+		  "id": "alarm_on",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n alarm on\n <i class=\"material-icons material-icons-alarm_on\"></i>\n </div>\n "
+		},
+		{
+		  "id": "all_out",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n all out\n <i class=\"material-icons material-icons-all_out\"></i>\n </div>\n "
+		},
+		{
+		  "id": "android",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n android\n <i class=\"material-icons material-icons-android\"></i>\n </div>\n "
+		},
+		{
+		  "id": "announcement",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n announcement\n <i class=\"material-icons material-icons-announcement\"></i>\n </div>\n "
+		},
+		{
+		  "id": "aspect_ratio",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n aspect ratio\n <i class=\"material-icons material-icons-aspect_ratio\"></i>\n </div>\n "
+		},
+		{
+		  "id": "assessment",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n assessment\n <i class=\"material-icons material-icons-assessment\"></i>\n </div>\n "
+		},
+		{
+		  "id": "assignment",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n assignment\n <i class=\"material-icons material-icons-assignment\"></i>\n </div>\n "
+		},
+		{
+		  "id": "assignment_ind",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n assignment ind\n <i class=\"material-icons material-icons-assignment_ind\"></i>\n </div>\n "
+		},
+		{
+		  "id": "assignment_late",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n assignment late\n <i class=\"material-icons material-icons-assignment_late\"></i>\n </div>\n "
+		},
+		{
+		  "id": "assignment_return",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n assignment return\n <i class=\"material-icons material-icons-assignment_return\"></i>\n </div>\n "
+		},
+		{
+		  "id": "assignment_returned",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n assignment returned\n <i class=\"material-icons material-icons-assignment_returned\"></i>\n </div>\n "
+		},
+		{
+		  "id": "assignment_turned_in",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n assignment turned in\n <i class=\"material-icons material-icons-assignment_turned_in\"></i>\n </div>\n "
+		},
+		{
+		  "id": "autorenew",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n autorenew\n <i class=\"material-icons material-icons-autorenew\"></i>\n </div>\n "
+		},
+		{
+		  "id": "backup",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n backup\n <i class=\"material-icons material-icons-backup\"></i>\n </div>\n "
+		},
+		{
+		  "id": "book",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n book\n <i class=\"material-icons material-icons-book\"></i>\n </div>\n "
+		},
+		{
+		  "id": "bookmark",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n bookmark\n <i class=\"material-icons material-icons-bookmark\"></i>\n </div>\n "
+		},
+		{
+		  "id": "bookmark_border",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n bookmark border\n <i class=\"material-icons material-icons-bookmark_border\"></i>\n </div>\n "
+		},
+		{
+		  "id": "bug_report",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n bug report\n <i class=\"material-icons material-icons-bug_report\"></i>\n </div>\n "
+		},
+		{
+		  "id": "build",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n build\n <i class=\"material-icons material-icons-build\"></i>\n </div>\n "
+		},
+		{
+		  "id": "cached",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n cached\n <i class=\"material-icons material-icons-cached\"></i>\n </div>\n "
+		},
+		{
+		  "id": "camera_enhance",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n camera enhance\n <i class=\"material-icons material-icons-camera_enhance\"></i>\n </div>\n "
+		},
+		{
+		  "id": "card_giftcard",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n card giftcard\n <i class=\"material-icons material-icons-card_giftcard\"></i>\n </div>\n "
+		},
+		{
+		  "id": "card_membership",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n card membership\n <i class=\"material-icons material-icons-card_membership\"></i>\n </div>\n "
+		},
+		{
+		  "id": "card_travel",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n card travel\n <i class=\"material-icons material-icons-card_travel\"></i>\n </div>\n "
+		},
+		{
+		  "id": "change_history",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n change history\n <i class=\"material-icons material-icons-change_history\"></i>\n </div>\n "
+		},
+		{
+		  "id": "check_circle",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n check circle\n <i class=\"material-icons material-icons-check_circle\"></i>\n </div>\n "
+		},
+		{
+		  "id": "chrome_reader_mode",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n chrome reader mode\n <i class=\"material-icons material-icons-chrome_reader_mode\"></i>\n </div>\n "
+		},
+		{
+		  "id": "class",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n class\n <i class=\"material-icons material-icons-class\"></i>\n </div>\n "
+		},
+		{
+		  "id": "code",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n code\n <i class=\"material-icons material-icons-code\"></i>\n </div>\n "
+		},
+		{
+		  "id": "compare_arrows",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n compare arrows\n <i class=\"material-icons material-icons-compare_arrows\"></i>\n </div>\n "
+		},
+		{
+		  "id": "copyright",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n copyright\n <i class=\"material-icons material-icons-copyright\"></i>\n </div>\n "
+		},
+		{
+		  "id": "credit_card",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n credit card\n <i class=\"material-icons material-icons-credit_card\"></i>\n </div>\n "
+		},
+		{
+		  "id": "dashboard",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n dashboard\n <i class=\"material-icons material-icons-dashboard\"></i>\n </div>\n "
+		},
+		{
+		  "id": "date_range",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n date range\n <i class=\"material-icons material-icons-date_range\"></i>\n </div>\n "
+		},
+		{
+		  "id": "delete",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n delete\n <i class=\"material-icons material-icons-delete\"></i>\n </div>\n "
+		},
+		{
+		  "id": "description",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n description\n <i class=\"material-icons material-icons-description\"></i>\n </div>\n "
+		},
+		{
+		  "id": "dns",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n dns\n <i class=\"material-icons material-icons-dns\"></i>\n </div>\n "
+		},
+		{
+		  "id": "done",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n done\n <i class=\"material-icons material-icons-done\"></i>\n </div>\n "
+		},
+		{
+		  "id": "done_all",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n done all\n <i class=\"material-icons material-icons-done_all\"></i>\n </div>\n "
+		},
+		{
+		  "id": "donut_large",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n donut large\n <i class=\"material-icons material-icons-donut_large\"></i>\n </div>\n "
+		},
+		{
+		  "id": "donut_small",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n donut small\n <i class=\"material-icons material-icons-donut_small\"></i>\n </div>\n "
+		},
+		{
+		  "id": "eject",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n eject\n <i class=\"material-icons material-icons-eject\"></i>\n </div>\n "
+		},
+		{
+		  "id": "event",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n event\n <i class=\"material-icons material-icons-event\"></i>\n </div>\n "
+		},
+		{
+		  "id": "event_seat",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n event seat\n <i class=\"material-icons material-icons-event_seat\"></i>\n </div>\n "
+		},
+		{
+		  "id": "exit_to_app",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n exit to app\n <i class=\"material-icons material-icons-exit_to_app\"></i>\n </div>\n "
+		},
+		{
+		  "id": "explore",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n explore\n <i class=\"material-icons material-icons-explore\"></i>\n </div>\n "
+		},
+		{
+		  "id": "extension",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n extension\n <i class=\"material-icons material-icons-extension\"></i>\n </div>\n "
+		},
+		{
+		  "id": "face",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n face\n <i class=\"material-icons material-icons-face\"></i>\n </div>\n "
+		},
+		{
+		  "id": "favorite",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n favorite\n <i class=\"material-icons material-icons-favorite\"></i>\n </div>\n "
+		},
+		{
+		  "id": "favorite_border",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n favorite border\n <i class=\"material-icons material-icons-favorite_border\"></i>\n </div>\n "
+		},
+		{
+		  "id": "feedback",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n feedback\n <i class=\"material-icons material-icons-feedback\"></i>\n </div>\n "
+		},
+		{
+		  "id": "find_in_page",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n find in page\n <i class=\"material-icons material-icons-find_in_page\"></i>\n </div>\n "
+		},
+		{
+		  "id": "find_replace",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n find replace\n <i class=\"material-icons material-icons-find_replace\"></i>\n </div>\n "
+		},
+		{
+		  "id": "fingerprint",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n fingerprint\n <i class=\"material-icons material-icons-fingerprint\"></i>\n </div>\n "
+		},
+		{
+		  "id": "flight_land",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n flight land\n <i class=\"material-icons material-icons-flight_land\"></i>\n </div>\n "
+		},
+		{
+		  "id": "flight_takeoff",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n flight takeoff\n <i class=\"material-icons material-icons-flight_takeoff\"></i>\n </div>\n "
+		},
+		{
+		  "id": "flip_to_back",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n flip to back\n <i class=\"material-icons material-icons-flip_to_back\"></i>\n </div>\n "
+		},
+		{
+		  "id": "flip_to_front",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n flip to front\n <i class=\"material-icons material-icons-flip_to_front\"></i>\n </div>\n "
+		},
+		{
+		  "id": "gavel",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n gavel\n <i class=\"material-icons material-icons-gavel\"></i>\n </div>\n "
+		},
+		{
+		  "id": "get_app",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n get app\n <i class=\"material-icons material-icons-get_app\"></i>\n </div>\n "
+		},
+		{
+		  "id": "gif",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n gif\n <i class=\"material-icons material-icons-gif\"></i>\n </div>\n "
+		},
+		{
+		  "id": "grade",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n grade\n <i class=\"material-icons material-icons-grade\"></i>\n </div>\n "
+		},
+		{
+		  "id": "group_work",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n group work\n <i class=\"material-icons material-icons-group_work\"></i>\n </div>\n "
+		},
+		{
+		  "id": "help",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n help\n <i class=\"material-icons material-icons-help\"></i>\n </div>\n "
+		},
+		{
+		  "id": "help_outline",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n help outline\n <i class=\"material-icons material-icons-help_outline\"></i>\n </div>\n "
+		},
+		{
+		  "id": "highlight_off",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n highlight off\n <i class=\"material-icons material-icons-highlight_off\"></i>\n </div>\n "
+		},
+		{
+		  "id": "history",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n history\n <i class=\"material-icons material-icons-history\"></i>\n </div>\n "
+		},
+		{
+		  "id": "home",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n home\n <i class=\"material-icons material-icons-home\"></i>\n </div>\n "
+		},
+		{
+		  "id": "hourglass_empty",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n hourglass empty\n <i class=\"material-icons material-icons-hourglass_empty\"></i>\n </div>\n "
+		},
+		{
+		  "id": "hourglass_full",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n hourglass full\n <i class=\"material-icons material-icons-hourglass_full\"></i>\n </div>\n "
+		},
+		{
+		  "id": "http",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n http\n <i class=\"material-icons material-icons-http\"></i>\n </div>\n "
+		},
+		{
+		  "id": "https",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n https\n <i class=\"material-icons material-icons-https\"></i>\n </div>\n "
+		},
+		{
+		  "id": "important_devices",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n important devices\n <i class=\"material-icons material-icons-important_devices\"></i>\n </div>\n "
+		},
+		{
+		  "id": "info",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n info\n <i class=\"material-icons material-icons-info\"></i>\n </div>\n "
+		},
+		{
+		  "id": "info_outline",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n info outline\n <i class=\"material-icons material-icons-info_outline\"></i>\n </div>\n "
+		},
+		{
+		  "id": "input",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n input\n <i class=\"material-icons material-icons-input\"></i>\n </div>\n "
+		},
+		{
+		  "id": "invert_colors",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n invert colors\n <i class=\"material-icons material-icons-invert_colors\"></i>\n </div>\n "
+		},
+		{
+		  "id": "label",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n label\n <i class=\"material-icons material-icons-label\"></i>\n </div>\n "
+		},
+		{
+		  "id": "label_outline",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n label outline\n <i class=\"material-icons material-icons-label_outline\"></i>\n </div>\n "
+		},
+		{
+		  "id": "language",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n language\n <i class=\"material-icons material-icons-language\"></i>\n </div>\n "
+		},
+		{
+		  "id": "launch",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n launch\n <i class=\"material-icons material-icons-launch\"></i>\n </div>\n "
+		},
+		{
+		  "id": "lightbulb_outline",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n lightbulb outline\n <i class=\"material-icons material-icons-lightbulb_outline\"></i>\n </div>\n "
+		},
+		{
+		  "id": "line_style",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n line style\n <i class=\"material-icons material-icons-line_style\"></i>\n </div>\n "
+		},
+		{
+		  "id": "line_weight",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n line weight\n <i class=\"material-icons material-icons-line_weight\"></i>\n </div>\n "
+		},
+		{
+		  "id": "list",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n list\n <i class=\"material-icons material-icons-list\"></i>\n </div>\n "
+		},
+		{
+		  "id": "lock",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n lock\n <i class=\"material-icons material-icons-lock\"></i>\n </div>\n "
+		},
+		{
+		  "id": "lock_open",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n lock open\n <i class=\"material-icons material-icons-lock_open\"></i>\n </div>\n "
+		},
+		{
+		  "id": "lock_outline",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n lock outline\n <i class=\"material-icons material-icons-lock_outline\"></i>\n </div>\n "
+		},
+		{
+		  "id": "loyalty",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n loyalty\n <i class=\"material-icons material-icons-loyalty\"></i>\n </div>\n "
+		},
+		{
+		  "id": "markunread_mailbox",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n markunread mailbox\n <i class=\"material-icons material-icons-markunread_mailbox\"></i>\n </div>\n "
+		},
+		{
+		  "id": "motorcycle",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n motorcycle\n <i class=\"material-icons material-icons-motorcycle\"></i>\n </div>\n "
+		},
+		{
+		  "id": "note_add",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n note add\n <i class=\"material-icons material-icons-note_add\"></i>\n </div>\n "
+		},
+		{
+		  "id": "offline_pin",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n offline pin\n <i class=\"material-icons material-icons-offline_pin\"></i>\n </div>\n "
+		},
+		{
+		  "id": "opacity",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n opacity\n <i class=\"material-icons material-icons-opacity\"></i>\n </div>\n "
+		},
+		{
+		  "id": "open_in_browser",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n open in browser\n <i class=\"material-icons material-icons-open_in_browser\"></i>\n </div>\n "
+		},
+		{
+		  "id": "open_in_new",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n open in new\n <i class=\"material-icons material-icons-open_in_new\"></i>\n </div>\n "
+		},
+		{
+		  "id": "open_with",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n open with\n <i class=\"material-icons material-icons-open_with\"></i>\n </div>\n "
+		},
+		{
+		  "id": "pageview",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n pageview\n <i class=\"material-icons material-icons-pageview\"></i>\n </div>\n "
+		},
+		{
+		  "id": "pan_tool",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n pan tool\n <i class=\"material-icons material-icons-pan_tool\"></i>\n </div>\n "
+		},
+		{
+		  "id": "payment",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n payment\n <i class=\"material-icons material-icons-payment\"></i>\n </div>\n "
+		},
+		{
+		  "id": "perm_camera_mic",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n perm camera mic\n <i class=\"material-icons material-icons-perm_camera_mic\"></i>\n </div>\n "
+		},
+		{
+		  "id": "perm_contact_calendar",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n perm contact calendar\n <i class=\"material-icons material-icons-perm_contact_calendar\"></i>\n </div>\n "
+		},
+		{
+		  "id": "perm_data_setting",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n perm data setting\n <i class=\"material-icons material-icons-perm_data_setting\"></i>\n </div>\n "
+		},
+		{
+		  "id": "perm_device_information",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n perm device information\n <i class=\"material-icons material-icons-perm_device_information\"></i>\n </div>\n "
+		},
+		{
+		  "id": "perm_identity",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n perm identity\n <i class=\"material-icons material-icons-perm_identity\"></i>\n </div>\n "
+		},
+		{
+		  "id": "perm_media",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n perm media\n <i class=\"material-icons material-icons-perm_media\"></i>\n </div>\n "
+		},
+		{
+		  "id": "perm_phone_msg",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n perm phone msg\n <i class=\"material-icons material-icons-perm_phone_msg\"></i>\n </div>\n "
+		},
+		{
+		  "id": "perm_scan_wifi",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n perm scan wifi\n <i class=\"material-icons material-icons-perm_scan_wifi\"></i>\n </div>\n "
+		},
+		{
+		  "id": "pets",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n pets\n <i class=\"material-icons material-icons-pets\"></i>\n </div>\n "
+		},
+		{
+		  "id": "picture_in_picture",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n picture in picture\n <i class=\"material-icons material-icons-picture_in_picture\"></i>\n </div>\n "
+		},
+		{
+		  "id": "picture_in_picture_alt",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n picture in picture alt\n <i class=\"material-icons material-icons-picture_in_picture_alt\"></i>\n </div>\n "
+		},
+		{
+		  "id": "play_for_work",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n play for work\n <i class=\"material-icons material-icons-play_for_work\"></i>\n </div>\n "
+		},
+		{
+		  "id": "polymer",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n polymer\n <i class=\"material-icons material-icons-polymer\"></i>\n </div>\n "
+		},
+		{
+		  "id": "power_settings_new",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n power settings new\n <i class=\"material-icons material-icons-power_settings_new\"></i>\n </div>\n "
+		},
+		{
+		  "id": "pregnant_woman",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n pregnant woman\n <i class=\"material-icons material-icons-pregnant_woman\"></i>\n </div>\n "
+		},
+		{
+		  "id": "print",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n print\n <i class=\"material-icons material-icons-print\"></i>\n </div>\n "
+		},
+		{
+		  "id": "query_builder",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n query builder\n <i class=\"material-icons material-icons-query_builder\"></i>\n </div>\n "
+		},
+		{
+		  "id": "question_answer",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n question answer\n <i class=\"material-icons material-icons-question_answer\"></i>\n </div>\n "
+		},
+		{
+		  "id": "receipt",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n receipt\n <i class=\"material-icons material-icons-receipt\"></i>\n </div>\n "
+		},
+		{
+		  "id": "record_voice_over",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n record voice over\n <i class=\"material-icons material-icons-record_voice_over\"></i>\n </div>\n "
+		},
+		{
+		  "id": "redeem",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n redeem\n <i class=\"material-icons material-icons-redeem\"></i>\n </div>\n "
+		},
+		{
+		  "id": "reorder",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n reorder\n <i class=\"material-icons material-icons-reorder\"></i>\n </div>\n "
+		},
+		{
+		  "id": "report_problem",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n report problem\n <i class=\"material-icons material-icons-report_problem\"></i>\n </div>\n "
+		},
+		{
+		  "id": "restore",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n restore\n <i class=\"material-icons material-icons-restore\"></i>\n </div>\n "
+		},
+		{
+		  "id": "room",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n room\n <i class=\"material-icons material-icons-room\"></i>\n </div>\n "
+		},
+		{
+		  "id": "rounded_corner",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n rounded corner\n <i class=\"material-icons material-icons-rounded_corner\"></i>\n </div>\n "
+		},
+		{
+		  "id": "rowing",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n rowing\n <i class=\"material-icons material-icons-rowing\"></i>\n </div>\n "
+		},
+		{
+		  "id": "schedule",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n schedule\n <i class=\"material-icons material-icons-schedule\"></i>\n </div>\n "
+		},
+		{
+		  "id": "search",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n search\n <i class=\"material-icons material-icons-search\"></i>\n </div>\n "
+		},
+		{
+		  "id": "settings",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n settings\n <i class=\"material-icons material-icons-settings\"></i>\n </div>\n "
+		},
+		{
+		  "id": "settings_applications",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n settings applications\n <i class=\"material-icons material-icons-settings_applications\"></i>\n </div>\n "
+		},
+		{
+		  "id": "settings_backup_restore",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n settings backup restore\n <i class=\"material-icons material-icons-settings_backup_restore\"></i>\n </div>\n "
+		},
+		{
+		  "id": "settings_bluetooth",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n settings bluetooth\n <i class=\"material-icons material-icons-settings_bluetooth\"></i>\n </div>\n "
+		},
+		{
+		  "id": "settings_brightness",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n settings brightness\n <i class=\"material-icons material-icons-settings_brightness\"></i>\n </div>\n "
+		},
+		{
+		  "id": "settings_cell",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n settings cell\n <i class=\"material-icons material-icons-settings_cell\"></i>\n </div>\n "
+		},
+		{
+		  "id": "settings_ethernet",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n settings ethernet\n <i class=\"material-icons material-icons-settings_ethernet\"></i>\n </div>\n "
+		},
+		{
+		  "id": "settings_input_antenna",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n settings input antenna\n <i class=\"material-icons material-icons-settings_input_antenna\"></i>\n </div>\n "
+		},
+		{
+		  "id": "settings_input_composite",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n settings input composite\n <i class=\"material-icons material-icons-settings_input_composite\"></i>\n </div>\n "
+		},
+		{
+		  "id": "settings_input_hdmi",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n settings input hdmi\n <i class=\"material-icons material-icons-settings_input_hdmi\"></i>\n </div>\n "
+		},
+		{
+		  "id": "settings_input_svideo",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n settings input svideo\n <i class=\"material-icons material-icons-settings_input_svideo\"></i>\n </div>\n "
+		},
+		{
+		  "id": "settings_overscan",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n settings overscan\n <i class=\"material-icons material-icons-settings_overscan\"></i>\n </div>\n "
+		},
+		{
+		  "id": "settings_phone",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n settings phone\n <i class=\"material-icons material-icons-settings_phone\"></i>\n </div>\n "
+		},
+		{
+		  "id": "settings_power",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n settings power\n <i class=\"material-icons material-icons-settings_power\"></i>\n </div>\n "
+		},
+		{
+		  "id": "settings_remote",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n settings remote\n <i class=\"material-icons material-icons-settings_remote\"></i>\n </div>\n "
+		},
+		{
+		  "id": "settings_voice",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n settings voice\n <i class=\"material-icons material-icons-settings_voice\"></i>\n </div>\n "
+		},
+		{
+		  "id": "shop",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n shop\n <i class=\"material-icons material-icons-shop\"></i>\n </div>\n "
+		},
+		{
+		  "id": "shop_two",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n shop two\n <i class=\"material-icons material-icons-shop_two\"></i>\n </div>\n "
+		},
+		{
+		  "id": "shopping_basket",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n shopping basket\n <i class=\"material-icons material-icons-shopping_basket\"></i>\n </div>\n "
+		},
+		{
+		  "id": "shopping_cart",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n shopping cart\n <i class=\"material-icons material-icons-shopping_cart\"></i>\n </div>\n "
+		},
+		{
+		  "id": "speaker_notes",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n speaker notes\n <i class=\"material-icons material-icons-speaker_notes\"></i>\n </div>\n "
+		},
+		{
+		  "id": "spellcheck",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n spellcheck\n <i class=\"material-icons material-icons-spellcheck\"></i>\n </div>\n "
+		},
+		{
+		  "id": "star_rate",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n star rate\n <i class=\"material-icons material-icons-star_rate\"></i>\n </div>\n "
+		},
+		{
+		  "id": "stars",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n stars\n <i class=\"material-icons material-icons-stars\"></i>\n </div>\n "
+		},
+		{
+		  "id": "store",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n store\n <i class=\"material-icons material-icons-store\"></i>\n </div>\n "
+		},
+		{
+		  "id": "subject",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n subject\n <i class=\"material-icons material-icons-subject\"></i>\n </div>\n "
+		},
+		{
+		  "id": "supervisor_account",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n supervisor account\n <i class=\"material-icons material-icons-supervisor_account\"></i>\n </div>\n "
+		},
+		{
+		  "id": "swap_horiz",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n swap horiz\n <i class=\"material-icons material-icons-swap_horiz\"></i>\n </div>\n "
+		},
+		{
+		  "id": "swap_vert",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n swap vert\n <i class=\"material-icons material-icons-swap_vert\"></i>\n </div>\n "
+		},
+		{
+		  "id": "swap_vertical_circle",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n swap vertical circle\n <i class=\"material-icons material-icons-swap_vertical_circle\"></i>\n </div>\n "
+		},
+		{
+		  "id": "system_update_alt",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n system update alt\n <i class=\"material-icons material-icons-system_update_alt\"></i>\n </div>\n "
+		},
+		{
+		  "id": "tab",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n tab\n <i class=\"material-icons material-icons-tab\"></i>\n </div>\n "
+		},
+		{
+		  "id": "tab_unselected",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n tab unselected\n <i class=\"material-icons material-icons-tab_unselected\"></i>\n </div>\n "
+		},
+		{
+		  "id": "theaters",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n theaters\n <i class=\"material-icons material-icons-theaters\"></i>\n </div>\n "
+		},
+		{
+		  "id": "thumb_down",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n thumb down\n <i class=\"material-icons material-icons-thumb_down\"></i>\n </div>\n "
+		},
+		{
+		  "id": "thumb_up",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n thumb up\n <i class=\"material-icons material-icons-thumb_up\"></i>\n </div>\n "
+		},
+		{
+		  "id": "thumbs_up_down",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n thumbs up down\n <i class=\"material-icons material-icons-thumbs_up_down\"></i>\n </div>\n "
+		},
+		{
+		  "id": "timeline",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n timeline\n <i class=\"material-icons material-icons-timeline\"></i>\n </div>\n "
+		},
+		{
+		  "id": "toc",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n toc\n <i class=\"material-icons material-icons-toc\"></i>\n </div>\n "
+		},
+		{
+		  "id": "today",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n today\n <i class=\"material-icons material-icons-today\"></i>\n </div>\n "
+		},
+		{
+		  "id": "toll",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n toll\n <i class=\"material-icons material-icons-toll\"></i>\n </div>\n "
+		},
+		{
+		  "id": "touch_app",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n touch app\n <i class=\"material-icons material-icons-touch_app\"></i>\n </div>\n "
+		},
+		{
+		  "id": "track_changes",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n track changes\n <i class=\"material-icons material-icons-track_changes\"></i>\n </div>\n "
+		},
+		{
+		  "id": "translate",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n translate\n <i class=\"material-icons material-icons-translate\"></i>\n </div>\n "
+		},
+		{
+		  "id": "trending_down",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n trending down\n <i class=\"material-icons material-icons-trending_down\"></i>\n </div>\n "
+		},
+		{
+		  "id": "trending_flat",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n trending flat\n <i class=\"material-icons material-icons-trending_flat\"></i>\n </div>\n "
+		},
+		{
+		  "id": "trending_up",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n trending up\n <i class=\"material-icons material-icons-trending_up\"></i>\n </div>\n "
+		},
+		{
+		  "id": "turned_in",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n turned in\n <i class=\"material-icons material-icons-turned_in\"></i>\n </div>\n "
+		},
+		{
+		  "id": "turned_in_not",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n turned in not\n <i class=\"material-icons material-icons-turned_in_not\"></i>\n </div>\n "
+		},
+		{
+		  "id": "update",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n update\n <i class=\"material-icons material-icons-update\"></i>\n </div>\n "
+		},
+		{
+		  "id": "verified_user",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n verified user\n <i class=\"material-icons material-icons-verified_user\"></i>\n </div>\n "
+		},
+		{
+		  "id": "view_agenda",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n view agenda\n <i class=\"material-icons material-icons-view_agenda\"></i>\n </div>\n "
+		},
+		{
+		  "id": "view_array",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n view array\n <i class=\"material-icons material-icons-view_array\"></i>\n </div>\n "
+		},
+		{
+		  "id": "view_carousel",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n view carousel\n <i class=\"material-icons material-icons-view_carousel\"></i>\n </div>\n "
+		},
+		{
+		  "id": "view_column",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n view column\n <i class=\"material-icons material-icons-view_column\"></i>\n </div>\n "
+		},
+		{
+		  "id": "view_day",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n view day\n <i class=\"material-icons material-icons-view_day\"></i>\n </div>\n "
+		},
+		{
+		  "id": "view_headline",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n view headline\n <i class=\"material-icons material-icons-view_headline\"></i>\n </div>\n "
+		},
+		{
+		  "id": "view_list",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n view list\n <i class=\"material-icons material-icons-view_list\"></i>\n </div>\n "
+		},
+		{
+		  "id": "view_module",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n view module\n <i class=\"material-icons material-icons-view_module\"></i>\n </div>\n "
+		},
+		{
+		  "id": "view_quilt",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n view quilt\n <i class=\"material-icons material-icons-view_quilt\"></i>\n </div>\n "
+		},
+		{
+		  "id": "view_stream",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n view stream\n <i class=\"material-icons material-icons-view_stream\"></i>\n </div>\n "
+		},
+		{
+		  "id": "view_week",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n view week\n <i class=\"material-icons material-icons-view_week\"></i>\n </div>\n "
+		},
+		{
+		  "id": "visibility",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n visibility\n <i class=\"material-icons material-icons-visibility\"></i>\n </div>\n "
+		},
+		{
+		  "id": "visibility_off",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n visibility off\n <i class=\"material-icons material-icons-visibility_off\"></i>\n </div>\n "
+		},
+		{
+		  "id": "watch_later",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n watch later\n <i class=\"material-icons material-icons-watch_later\"></i>\n </div>\n "
+		},
+		{
+		  "id": "work",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n work\n <i class=\"material-icons material-icons-work\"></i>\n </div>\n "
+		},
+		{
+		  "id": "youtube_searched_for",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n youtube searched for\n <i class=\"material-icons material-icons-youtube_searched_for\"></i>\n </div>\n "
+		},
+		{
+		  "id": "zoom_in",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n zoom in\n <i class=\"material-icons material-icons-zoom_in\"></i>\n </div>\n "
+		},
+		{
+		  "id": "zoom_out",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n zoom out\n <i class=\"material-icons material-icons-zoom_out\"></i>\n </div>\n "
+		}
+	  ]
+	},
+	{
+	  "text": "alert",
+	  "children": [
+		{
+		  "id": "add_alert",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n add alert\n <i class=\"material-icons material-icons-add_alert\"></i>\n </div>\n "
+		},
+		{
+		  "id": "error",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n error\n <i class=\"material-icons material-icons-error\"></i>\n </div>\n "
+		},
+		{
+		  "id": "error_outline",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n error outline\n <i class=\"material-icons material-icons-error_outline\"></i>\n </div>\n "
+		},
+		{
+		  "id": "warning",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n warning\n <i class=\"material-icons material-icons-warning\"></i>\n </div>\n "
+		}
+	  ]
+	},
+	{
+	  "text": "av",
+	  "children": [
+		{
+		  "id": "add_to_queue",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n add to queue\n <i class=\"material-icons material-icons-add_to_queue\"></i>\n </div>\n "
+		},
+		{
+		  "id": "airplay",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n airplay\n <i class=\"material-icons material-icons-airplay\"></i>\n </div>\n "
+		},
+		{
+		  "id": "album",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n album\n <i class=\"material-icons material-icons-album\"></i>\n </div>\n "
+		},
+		{
+		  "id": "art_track",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n art track\n <i class=\"material-icons material-icons-art_track\"></i>\n </div>\n "
+		},
+		{
+		  "id": "av_timer",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n av timer\n <i class=\"material-icons material-icons-av_timer\"></i>\n </div>\n "
+		},
+		{
+		  "id": "closed_caption",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n closed caption\n <i class=\"material-icons material-icons-closed_caption\"></i>\n </div>\n "
+		},
+		{
+		  "id": "equalizer",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n equalizer\n <i class=\"material-icons material-icons-equalizer\"></i>\n </div>\n "
+		},
+		{
+		  "id": "explicit",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n explicit\n <i class=\"material-icons material-icons-explicit\"></i>\n </div>\n "
+		},
+		{
+		  "id": "fast_forward",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n fast forward\n <i class=\"material-icons material-icons-fast_forward\"></i>\n </div>\n "
+		},
+		{
+		  "id": "fast_rewind",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n fast rewind\n <i class=\"material-icons material-icons-fast_rewind\"></i>\n </div>\n "
+		},
+		{
+		  "id": "fiber_dvr",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n fiber dvr\n <i class=\"material-icons material-icons-fiber_dvr\"></i>\n </div>\n "
+		},
+		{
+		  "id": "fiber_manual_record",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n fiber manual record\n <i class=\"material-icons material-icons-fiber_manual_record\"></i>\n </div>\n "
+		},
+		{
+		  "id": "fiber_new",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n fiber new\n <i class=\"material-icons material-icons-fiber_new\"></i>\n </div>\n "
+		},
+		{
+		  "id": "fiber_pin",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n fiber pin\n <i class=\"material-icons material-icons-fiber_pin\"></i>\n </div>\n "
+		},
+		{
+		  "id": "fiber_smart_record",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n fiber smart record\n <i class=\"material-icons material-icons-fiber_smart_record\"></i>\n </div>\n "
+		},
+		{
+		  "id": "forward_10",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n forward 10\n <i class=\"material-icons material-icons-forward_10\"></i>\n </div>\n "
+		},
+		{
+		  "id": "forward_30",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n forward 30\n <i class=\"material-icons material-icons-forward_30\"></i>\n </div>\n "
+		},
+		{
+		  "id": "forward_5",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n forward 5\n <i class=\"material-icons material-icons-forward_5\"></i>\n </div>\n "
+		},
+		{
+		  "id": "games",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n games\n <i class=\"material-icons material-icons-games\"></i>\n </div>\n "
+		},
+		{
+		  "id": "hd",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n hd\n <i class=\"material-icons material-icons-hd\"></i>\n </div>\n "
+		},
+		{
+		  "id": "hearing",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n hearing\n <i class=\"material-icons material-icons-hearing\"></i>\n </div>\n "
+		},
+		{
+		  "id": "high_quality",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n high quality\n <i class=\"material-icons material-icons-high_quality\"></i>\n </div>\n "
+		},
+		{
+		  "id": "library_add",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n library add\n <i class=\"material-icons material-icons-library_add\"></i>\n </div>\n "
+		},
+		{
+		  "id": "library_books",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n library books\n <i class=\"material-icons material-icons-library_books\"></i>\n </div>\n "
+		},
+		{
+		  "id": "library_music",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n library music\n <i class=\"material-icons material-icons-library_music\"></i>\n </div>\n "
+		},
+		{
+		  "id": "loop",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n loop\n <i class=\"material-icons material-icons-loop\"></i>\n </div>\n "
+		},
+		{
+		  "id": "mic",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n mic\n <i class=\"material-icons material-icons-mic\"></i>\n </div>\n "
+		},
+		{
+		  "id": "mic_none",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n mic none\n <i class=\"material-icons material-icons-mic_none\"></i>\n </div>\n "
+		},
+		{
+		  "id": "mic_off",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n mic off\n <i class=\"material-icons material-icons-mic_off\"></i>\n </div>\n "
+		},
+		{
+		  "id": "movie",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n movie\n <i class=\"material-icons material-icons-movie\"></i>\n </div>\n "
+		},
+		{
+		  "id": "music_video",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n music video\n <i class=\"material-icons material-icons-music_video\"></i>\n </div>\n "
+		},
+		{
+		  "id": "new_releases",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n new releases\n <i class=\"material-icons material-icons-new_releases\"></i>\n </div>\n "
+		},
+		{
+		  "id": "not_interested",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n not interested\n <i class=\"material-icons material-icons-not_interested\"></i>\n </div>\n "
+		},
+		{
+		  "id": "pause",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n pause\n <i class=\"material-icons material-icons-pause\"></i>\n </div>\n "
+		},
+		{
+		  "id": "pause_circle_filled",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n pause circle filled\n <i class=\"material-icons material-icons-pause_circle_filled\"></i>\n </div>\n "
+		},
+		{
+		  "id": "pause_circle_outline",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n pause circle outline\n <i class=\"material-icons material-icons-pause_circle_outline\"></i>\n </div>\n "
+		},
+		{
+		  "id": "play_arrow",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n play arrow\n <i class=\"material-icons material-icons-play_arrow\"></i>\n </div>\n "
+		},
+		{
+		  "id": "play_circle_filled",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n play circle filled\n <i class=\"material-icons material-icons-play_circle_filled\"></i>\n </div>\n "
+		},
+		{
+		  "id": "play_circle_outline",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n play circle outline\n <i class=\"material-icons material-icons-play_circle_outline\"></i>\n </div>\n "
+		},
+		{
+		  "id": "playlist_add",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n playlist add\n <i class=\"material-icons material-icons-playlist_add\"></i>\n </div>\n "
+		},
+		{
+		  "id": "playlist_add_check",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n playlist add check\n <i class=\"material-icons material-icons-playlist_add_check\"></i>\n </div>\n "
+		},
+		{
+		  "id": "playlist_play",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n playlist play\n <i class=\"material-icons material-icons-playlist_play\"></i>\n </div>\n "
+		},
+		{
+		  "id": "queue",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n queue\n <i class=\"material-icons material-icons-queue\"></i>\n </div>\n "
+		},
+		{
+		  "id": "queue_music",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n queue music\n <i class=\"material-icons material-icons-queue_music\"></i>\n </div>\n "
+		},
+		{
+		  "id": "queue_play_next",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n queue play next\n <i class=\"material-icons material-icons-queue_play_next\"></i>\n </div>\n "
+		},
+		{
+		  "id": "radio",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n radio\n <i class=\"material-icons material-icons-radio\"></i>\n </div>\n "
+		},
+		{
+		  "id": "recent_actors",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n recent actors\n <i class=\"material-icons material-icons-recent_actors\"></i>\n </div>\n "
+		},
+		{
+		  "id": "remove_from_queue",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n remove from queue\n <i class=\"material-icons material-icons-remove_from_queue\"></i>\n </div>\n "
+		},
+		{
+		  "id": "repeat",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n repeat\n <i class=\"material-icons material-icons-repeat\"></i>\n </div>\n "
+		},
+		{
+		  "id": "repeat_one",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n repeat one\n <i class=\"material-icons material-icons-repeat_one\"></i>\n </div>\n "
+		},
+		{
+		  "id": "replay",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n replay\n <i class=\"material-icons material-icons-replay\"></i>\n </div>\n "
+		},
+		{
+		  "id": "replay_10",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n replay 10\n <i class=\"material-icons material-icons-replay_10\"></i>\n </div>\n "
+		},
+		{
+		  "id": "replay_30",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n replay 30\n <i class=\"material-icons material-icons-replay_30\"></i>\n </div>\n "
+		},
+		{
+		  "id": "replay_5",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n replay 5\n <i class=\"material-icons material-icons-replay_5\"></i>\n </div>\n "
+		},
+		{
+		  "id": "shuffle",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n shuffle\n <i class=\"material-icons material-icons-shuffle\"></i>\n </div>\n "
+		},
+		{
+		  "id": "skip_next",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n skip next\n <i class=\"material-icons material-icons-skip_next\"></i>\n </div>\n "
+		},
+		{
+		  "id": "skip_previous",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n skip previous\n <i class=\"material-icons material-icons-skip_previous\"></i>\n </div>\n "
+		},
+		{
+		  "id": "slow_motion_video",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n slow motion video\n <i class=\"material-icons material-icons-slow_motion_video\"></i>\n </div>\n "
+		},
+		{
+		  "id": "snooze",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n snooze\n <i class=\"material-icons material-icons-snooze\"></i>\n </div>\n "
+		},
+		{
+		  "id": "sort_by_alpha",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n sort by alpha\n <i class=\"material-icons material-icons-sort_by_alpha\"></i>\n </div>\n "
+		},
+		{
+		  "id": "stop",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n stop\n <i class=\"material-icons material-icons-stop\"></i>\n </div>\n "
+		},
+		{
+		  "id": "subscriptions",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n subscriptions\n <i class=\"material-icons material-icons-subscriptions\"></i>\n </div>\n "
+		},
+		{
+		  "id": "subtitles",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n subtitles\n <i class=\"material-icons material-icons-subtitles\"></i>\n </div>\n "
+		},
+		{
+		  "id": "surround_sound",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n surround sound\n <i class=\"material-icons material-icons-surround_sound\"></i>\n </div>\n "
+		},
+		{
+		  "id": "video_library",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n video library\n <i class=\"material-icons material-icons-video_library\"></i>\n </div>\n "
+		},
+		{
+		  "id": "videocam",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n videocam\n <i class=\"material-icons material-icons-videocam\"></i>\n </div>\n "
+		},
+		{
+		  "id": "videocam_off",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n videocam off\n <i class=\"material-icons material-icons-videocam_off\"></i>\n </div>\n "
+		},
+		{
+		  "id": "volume_down",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n volume down\n <i class=\"material-icons material-icons-volume_down\"></i>\n </div>\n "
+		},
+		{
+		  "id": "volume_mute",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n volume mute\n <i class=\"material-icons material-icons-volume_mute\"></i>\n </div>\n "
+		},
+		{
+		  "id": "volume_off",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n volume off\n <i class=\"material-icons material-icons-volume_off\"></i>\n </div>\n "
+		},
+		{
+		  "id": "volume_up",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n volume up\n <i class=\"material-icons material-icons-volume_up\"></i>\n </div>\n "
+		},
+		{
+		  "id": "web",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n web\n <i class=\"material-icons material-icons-web\"></i>\n </div>\n "
+		},
+		{
+		  "id": "web_asset",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n web asset\n <i class=\"material-icons material-icons-web_asset\"></i>\n </div>\n "
+		}
+	  ]
+	},
+	{
+	  "text": "communication",
+	  "children": [
+		{
+		  "id": "business",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n business\n <i class=\"material-icons material-icons-business\"></i>\n </div>\n "
+		},
+		{
+		  "id": "call",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n call\n <i class=\"material-icons material-icons-call\"></i>\n </div>\n "
+		},
+		{
+		  "id": "call_end",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n call end\n <i class=\"material-icons material-icons-call_end\"></i>\n </div>\n "
+		},
+		{
+		  "id": "call_made",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n call made\n <i class=\"material-icons material-icons-call_made\"></i>\n </div>\n "
+		},
+		{
+		  "id": "call_merge",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n call merge\n <i class=\"material-icons material-icons-call_merge\"></i>\n </div>\n "
+		},
+		{
+		  "id": "call_missed",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n call missed\n <i class=\"material-icons material-icons-call_missed\"></i>\n </div>\n "
+		},
+		{
+		  "id": "call_missed_outgoing",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n call missed outgoing\n <i class=\"material-icons material-icons-call_missed_outgoing\"></i>\n </div>\n "
+		},
+		{
+		  "id": "call_received",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n call received\n <i class=\"material-icons material-icons-call_received\"></i>\n </div>\n "
+		},
+		{
+		  "id": "call_split",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n call split\n <i class=\"material-icons material-icons-call_split\"></i>\n </div>\n "
+		},
+		{
+		  "id": "chat",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n chat\n <i class=\"material-icons material-icons-chat\"></i>\n </div>\n "
+		},
+		{
+		  "id": "chat_bubble",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n chat bubble\n <i class=\"material-icons material-icons-chat_bubble\"></i>\n </div>\n "
+		},
+		{
+		  "id": "chat_bubble_outline",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n chat bubble outline\n <i class=\"material-icons material-icons-chat_bubble_outline\"></i>\n </div>\n "
+		},
+		{
+		  "id": "clear_all",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n clear all\n <i class=\"material-icons material-icons-clear_all\"></i>\n </div>\n "
+		},
+		{
+		  "id": "comment",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n comment\n <i class=\"material-icons material-icons-comment\"></i>\n </div>\n "
+		},
+		{
+		  "id": "contact_mail",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n contact mail\n <i class=\"material-icons material-icons-contact_mail\"></i>\n </div>\n "
+		},
+		{
+		  "id": "contact_phone",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n contact phone\n <i class=\"material-icons material-icons-contact_phone\"></i>\n </div>\n "
+		},
+		{
+		  "id": "contacts",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n contacts\n <i class=\"material-icons material-icons-contacts\"></i>\n </div>\n "
+		},
+		{
+		  "id": "dialer_sip",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n dialer sip\n <i class=\"material-icons material-icons-dialer_sip\"></i>\n </div>\n "
+		},
+		{
+		  "id": "dialpad",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n dialpad\n <i class=\"material-icons material-icons-dialpad\"></i>\n </div>\n "
+		},
+		{
+		  "id": "email",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n email\n <i class=\"material-icons material-icons-email\"></i>\n </div>\n "
+		},
+		{
+		  "id": "forum",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n forum\n <i class=\"material-icons material-icons-forum\"></i>\n </div>\n "
+		},
+		{
+		  "id": "import_contacts",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n import contacts\n <i class=\"material-icons material-icons-import_contacts\"></i>\n </div>\n "
+		},
+		{
+		  "id": "import_export",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n import export\n <i class=\"material-icons material-icons-import_export\"></i>\n </div>\n "
+		},
+		{
+		  "id": "invert_colors_off",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n invert colors off\n <i class=\"material-icons material-icons-invert_colors_off\"></i>\n </div>\n "
+		},
+		{
+		  "id": "live_help",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n live help\n <i class=\"material-icons material-icons-live_help\"></i>\n </div>\n "
+		},
+		{
+		  "id": "location_off",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n location off\n <i class=\"material-icons material-icons-location_off\"></i>\n </div>\n "
+		},
+		{
+		  "id": "location_on",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n location on\n <i class=\"material-icons material-icons-location_on\"></i>\n </div>\n "
+		},
+		{
+		  "id": "mail_outline",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n mail outline\n <i class=\"material-icons material-icons-mail_outline\"></i>\n </div>\n "
+		},
+		{
+		  "id": "message",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n message\n <i class=\"material-icons material-icons-message\"></i>\n </div>\n "
+		},
+		{
+		  "id": "no_sim",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n no sim\n <i class=\"material-icons material-icons-no_sim\"></i>\n </div>\n "
+		},
+		{
+		  "id": "phone",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n phone\n <i class=\"material-icons material-icons-phone\"></i>\n </div>\n "
+		},
+		{
+		  "id": "phonelink_erase",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n phonelink erase\n <i class=\"material-icons material-icons-phonelink_erase\"></i>\n </div>\n "
+		},
+		{
+		  "id": "phonelink_lock",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n phonelink lock\n <i class=\"material-icons material-icons-phonelink_lock\"></i>\n </div>\n "
+		},
+		{
+		  "id": "phonelink_ring",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n phonelink ring\n <i class=\"material-icons material-icons-phonelink_ring\"></i>\n </div>\n "
+		},
+		{
+		  "id": "phonelink_setup",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n phonelink setup\n <i class=\"material-icons material-icons-phonelink_setup\"></i>\n </div>\n "
+		},
+		{
+		  "id": "portable_wifi_off",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n portable wifi off\n <i class=\"material-icons material-icons-portable_wifi_off\"></i>\n </div>\n "
+		},
+		{
+		  "id": "present_to_all",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n present to all\n <i class=\"material-icons material-icons-present_to_all\"></i>\n </div>\n "
+		},
+		{
+		  "id": "ring_volume",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n ring volume\n <i class=\"material-icons material-icons-ring_volume\"></i>\n </div>\n "
+		},
+		{
+		  "id": "screen_share",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n screen share\n <i class=\"material-icons material-icons-screen_share\"></i>\n </div>\n "
+		},
+		{
+		  "id": "speaker_phone",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n speaker phone\n <i class=\"material-icons material-icons-speaker_phone\"></i>\n </div>\n "
+		},
+		{
+		  "id": "stay_current_landscape",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n stay current landscape\n <i class=\"material-icons material-icons-stay_current_landscape\"></i>\n </div>\n "
+		},
+		{
+		  "id": "stay_current_portrait",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n stay current portrait\n <i class=\"material-icons material-icons-stay_current_portrait\"></i>\n </div>\n "
+		},
+		{
+		  "id": "stay_primary_landscape",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n stay primary landscape\n <i class=\"material-icons material-icons-stay_primary_landscape\"></i>\n </div>\n "
+		},
+		{
+		  "id": "stay_primary_portrait",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n stay primary portrait\n <i class=\"material-icons material-icons-stay_primary_portrait\"></i>\n </div>\n "
+		},
+		{
+		  "id": "stop_screen_share",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n stop screen share\n <i class=\"material-icons material-icons-stop_screen_share\"></i>\n </div>\n "
+		},
+		{
+		  "id": "swap_calls",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n swap calls\n <i class=\"material-icons material-icons-swap_calls\"></i>\n </div>\n "
+		},
+		{
+		  "id": "textsms",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n textsms\n <i class=\"material-icons material-icons-textsms\"></i>\n </div>\n "
+		},
+		{
+		  "id": "voicemail",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n voicemail\n <i class=\"material-icons material-icons-voicemail\"></i>\n </div>\n "
+		},
+		{
+		  "id": "vpn_key",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n vpn key\n <i class=\"material-icons material-icons-vpn_key\"></i>\n </div>\n "
+		}
+	  ]
+	},
+	{
+	  "text": "content",
+	  "children": [
+		{
+		  "id": "add",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n add\n <i class=\"material-icons material-icons-add\"></i>\n </div>\n "
+		},
+		{
+		  "id": "add_box",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n add box\n <i class=\"material-icons material-icons-add_box\"></i>\n </div>\n "
+		},
+		{
+		  "id": "add_circle",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n add circle\n <i class=\"material-icons material-icons-add_circle\"></i>\n </div>\n "
+		},
+		{
+		  "id": "add_circle_outline",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n add circle outline\n <i class=\"material-icons material-icons-add_circle_outline\"></i>\n </div>\n "
+		},
+		{
+		  "id": "archive",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n archive\n <i class=\"material-icons material-icons-archive\"></i>\n </div>\n "
+		},
+		{
+		  "id": "backspace",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n backspace\n <i class=\"material-icons material-icons-backspace\"></i>\n </div>\n "
+		},
+		{
+		  "id": "block",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n block\n <i class=\"material-icons material-icons-block\"></i>\n </div>\n "
+		},
+		{
+		  "id": "clear",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n clear\n <i class=\"material-icons material-icons-clear\"></i>\n </div>\n "
+		},
+		{
+		  "id": "content_copy",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n content copy\n <i class=\"material-icons material-icons-content_copy\"></i>\n </div>\n "
+		},
+		{
+		  "id": "content_cut",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n content cut\n <i class=\"material-icons material-icons-content_cut\"></i>\n </div>\n "
+		},
+		{
+		  "id": "content_paste",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n content paste\n <i class=\"material-icons material-icons-content_paste\"></i>\n </div>\n "
+		},
+		{
+		  "id": "create",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n create\n <i class=\"material-icons material-icons-create\"></i>\n </div>\n "
+		},
+		{
+		  "id": "drafts",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n drafts\n <i class=\"material-icons material-icons-drafts\"></i>\n </div>\n "
+		},
+		{
+		  "id": "filter_list",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n filter list\n <i class=\"material-icons material-icons-filter_list\"></i>\n </div>\n "
+		},
+		{
+		  "id": "flag",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n flag\n <i class=\"material-icons material-icons-flag\"></i>\n </div>\n "
+		},
+		{
+		  "id": "font_download",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n font download\n <i class=\"material-icons material-icons-font_download\"></i>\n </div>\n "
+		},
+		{
+		  "id": "forward",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n forward\n <i class=\"material-icons material-icons-forward\"></i>\n </div>\n "
+		},
+		{
+		  "id": "gesture",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n gesture\n <i class=\"material-icons material-icons-gesture\"></i>\n </div>\n "
+		},
+		{
+		  "id": "inbox",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n inbox\n <i class=\"material-icons material-icons-inbox\"></i>\n </div>\n "
+		},
+		{
+		  "id": "link",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n link\n <i class=\"material-icons material-icons-link\"></i>\n </div>\n "
+		},
+		{
+		  "id": "mail",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n mail\n <i class=\"material-icons material-icons-mail\"></i>\n </div>\n "
+		},
+		{
+		  "id": "markunread",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n markunread\n <i class=\"material-icons material-icons-markunread\"></i>\n </div>\n "
+		},
+		{
+		  "id": "move_to_inbox",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n move to inbox\n <i class=\"material-icons material-icons-move_to_inbox\"></i>\n </div>\n "
+		},
+		{
+		  "id": "next_week",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n next week\n <i class=\"material-icons material-icons-next_week\"></i>\n </div>\n "
+		},
+		{
+		  "id": "redo",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n redo\n <i class=\"material-icons material-icons-redo\"></i>\n </div>\n "
+		},
+		{
+		  "id": "remove",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n remove\n <i class=\"material-icons material-icons-remove\"></i>\n </div>\n "
+		},
+		{
+		  "id": "remove_circle",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n remove circle\n <i class=\"material-icons material-icons-remove_circle\"></i>\n </div>\n "
+		},
+		{
+		  "id": "remove_circle_outline",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n remove circle outline\n <i class=\"material-icons material-icons-remove_circle_outline\"></i>\n </div>\n "
+		},
+		{
+		  "id": "reply",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n reply\n <i class=\"material-icons material-icons-reply\"></i>\n </div>\n "
+		},
+		{
+		  "id": "reply_all",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n reply all\n <i class=\"material-icons material-icons-reply_all\"></i>\n </div>\n "
+		},
+		{
+		  "id": "report",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n report\n <i class=\"material-icons material-icons-report\"></i>\n </div>\n "
+		},
+		{
+		  "id": "save",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n save\n <i class=\"material-icons material-icons-save\"></i>\n </div>\n "
+		},
+		{
+		  "id": "select_all",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n select all\n <i class=\"material-icons material-icons-select_all\"></i>\n </div>\n "
+		},
+		{
+		  "id": "send",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n send\n <i class=\"material-icons material-icons-send\"></i>\n </div>\n "
+		},
+		{
+		  "id": "sort",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n sort\n <i class=\"material-icons material-icons-sort\"></i>\n </div>\n "
+		},
+		{
+		  "id": "text_format",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n text format\n <i class=\"material-icons material-icons-text_format\"></i>\n </div>\n "
+		},
+		{
+		  "id": "unarchive",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n unarchive\n <i class=\"material-icons material-icons-unarchive\"></i>\n </div>\n "
+		},
+		{
+		  "id": "undo",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n undo\n <i class=\"material-icons material-icons-undo\"></i>\n </div>\n "
+		},
+		{
+		  "id": "weekend",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n weekend\n <i class=\"material-icons material-icons-weekend\"></i>\n </div>\n "
+		}
+	  ]
+	},
+	{
+	  "text": "device",
+	  "children": [
+		{
+		  "id": "access_alarm",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n access alarm\n <i class=\"material-icons material-icons-access_alarm\"></i>\n </div>\n "
+		},
+		{
+		  "id": "access_alarms",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n access alarms\n <i class=\"material-icons material-icons-access_alarms\"></i>\n </div>\n "
+		},
+		{
+		  "id": "access_time",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n access time\n <i class=\"material-icons material-icons-access_time\"></i>\n </div>\n "
+		},
+		{
+		  "id": "add_alarm",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n add alarm\n <i class=\"material-icons material-icons-add_alarm\"></i>\n </div>\n "
+		},
+		{
+		  "id": "airplanemode_active",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n airplanemode active\n <i class=\"material-icons material-icons-airplanemode_active\"></i>\n </div>\n "
+		},
+		{
+		  "id": "airplanemode_inactive",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n airplanemode inactive\n <i class=\"material-icons material-icons-airplanemode_inactive\"></i>\n </div>\n "
+		},
+		{
+		  "id": "battery_alert",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n battery alert\n <i class=\"material-icons material-icons-battery_alert\"></i>\n </div>\n "
+		},
+		{
+		  "id": "battery_charging_full",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n battery charging full\n <i class=\"material-icons material-icons-battery_charging_full\"></i>\n </div>\n "
+		},
+		{
+		  "id": "battery_full",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n battery full\n <i class=\"material-icons material-icons-battery_full\"></i>\n </div>\n "
+		},
+		{
+		  "id": "battery_std",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n battery std\n <i class=\"material-icons material-icons-battery_std\"></i>\n </div>\n "
+		},
+		{
+		  "id": "battery_unknown",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n battery unknown\n <i class=\"material-icons material-icons-battery_unknown\"></i>\n </div>\n "
+		},
+		{
+		  "id": "bluetooth",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n bluetooth\n <i class=\"material-icons material-icons-bluetooth\"></i>\n </div>\n "
+		},
+		{
+		  "id": "bluetooth_connected",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n bluetooth connected\n <i class=\"material-icons material-icons-bluetooth_connected\"></i>\n </div>\n "
+		},
+		{
+		  "id": "bluetooth_disabled",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n bluetooth disabled\n <i class=\"material-icons material-icons-bluetooth_disabled\"></i>\n </div>\n "
+		},
+		{
+		  "id": "bluetooth_searching",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n bluetooth searching\n <i class=\"material-icons material-icons-bluetooth_searching\"></i>\n </div>\n "
+		},
+		{
+		  "id": "brightness_auto",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n brightness auto\n <i class=\"material-icons material-icons-brightness_auto\"></i>\n </div>\n "
+		},
+		{
+		  "id": "brightness_high",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n brightness high\n <i class=\"material-icons material-icons-brightness_high\"></i>\n </div>\n "
+		},
+		{
+		  "id": "brightness_low",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n brightness low\n <i class=\"material-icons material-icons-brightness_low\"></i>\n </div>\n "
+		},
+		{
+		  "id": "brightness_medium",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n brightness medium\n <i class=\"material-icons material-icons-brightness_medium\"></i>\n </div>\n "
+		},
+		{
+		  "id": "data_usage",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n data usage\n <i class=\"material-icons material-icons-data_usage\"></i>\n </div>\n "
+		},
+		{
+		  "id": "developer_mode",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n developer mode\n <i class=\"material-icons material-icons-developer_mode\"></i>\n </div>\n "
+		},
+		{
+		  "id": "devices",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n devices\n <i class=\"material-icons material-icons-devices\"></i>\n </div>\n "
+		},
+		{
+		  "id": "dvr",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n dvr\n <i class=\"material-icons material-icons-dvr\"></i>\n </div>\n "
+		},
+		{
+		  "id": "gps_fixed",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n gps fixed\n <i class=\"material-icons material-icons-gps_fixed\"></i>\n </div>\n "
+		},
+		{
+		  "id": "gps_not_fixed",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n gps not fixed\n <i class=\"material-icons material-icons-gps_not_fixed\"></i>\n </div>\n "
+		},
+		{
+		  "id": "gps_off",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n gps off\n <i class=\"material-icons material-icons-gps_off\"></i>\n </div>\n "
+		},
+		{
+		  "id": "graphic_eq",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n graphic eq\n <i class=\"material-icons material-icons-graphic_eq\"></i>\n </div>\n "
+		},
+		{
+		  "id": "location_disabled",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n location disabled\n <i class=\"material-icons material-icons-location_disabled\"></i>\n </div>\n "
+		},
+		{
+		  "id": "location_searching",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n location searching\n <i class=\"material-icons material-icons-location_searching\"></i>\n </div>\n "
+		},
+		{
+		  "id": "network_cell",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n network cell\n <i class=\"material-icons material-icons-network_cell\"></i>\n </div>\n "
+		},
+		{
+		  "id": "network_wifi",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n network wifi\n <i class=\"material-icons material-icons-network_wifi\"></i>\n </div>\n "
+		},
+		{
+		  "id": "nfc",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n nfc\n <i class=\"material-icons material-icons-nfc\"></i>\n </div>\n "
+		},
+		{
+		  "id": "screen_lock_landscape",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n screen lock landscape\n <i class=\"material-icons material-icons-screen_lock_landscape\"></i>\n </div>\n "
+		},
+		{
+		  "id": "screen_lock_portrait",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n screen lock portrait\n <i class=\"material-icons material-icons-screen_lock_portrait\"></i>\n </div>\n "
+		},
+		{
+		  "id": "screen_lock_rotation",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n screen lock rotation\n <i class=\"material-icons material-icons-screen_lock_rotation\"></i>\n </div>\n "
+		},
+		{
+		  "id": "screen_rotation",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n screen rotation\n <i class=\"material-icons material-icons-screen_rotation\"></i>\n </div>\n "
+		},
+		{
+		  "id": "sd_storage",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n sd storage\n <i class=\"material-icons material-icons-sd_storage\"></i>\n </div>\n "
+		},
+		{
+		  "id": "settings_system_daydream",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n settings system daydream\n <i class=\"material-icons material-icons-settings_system_daydream\"></i>\n </div>\n "
+		},
+		{
+		  "id": "signal_cellular_4_bar",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n signal cellular 4 bar\n <i class=\"material-icons material-icons-signal_cellular_4_bar\"></i>\n </div>\n "
+		},
+		{
+		  "id": "signal_cellular_connected_no_internet_4_bar",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n signal cellular connected no internet 4 bar\n <i class=\"material-icons material-icons-signal_cellular_connected_no_internet_4_bar\"></i>\n </div>\n "
+		},
+		{
+		  "id": "signal_cellular_no_sim",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n signal cellular no sim\n <i class=\"material-icons material-icons-signal_cellular_no_sim\"></i>\n </div>\n "
+		},
+		{
+		  "id": "signal_cellular_null",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n signal cellular null\n <i class=\"material-icons material-icons-signal_cellular_null\"></i>\n </div>\n "
+		},
+		{
+		  "id": "signal_cellular_off",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n signal cellular off\n <i class=\"material-icons material-icons-signal_cellular_off\"></i>\n </div>\n "
+		},
+		{
+		  "id": "signal_wifi_4_bar",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n signal wifi 4 bar\n <i class=\"material-icons material-icons-signal_wifi_4_bar\"></i>\n </div>\n "
+		},
+		{
+		  "id": "signal_wifi_4_bar_lock",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n signal wifi 4 bar lock\n <i class=\"material-icons material-icons-signal_wifi_4_bar_lock\"></i>\n </div>\n "
+		},
+		{
+		  "id": "signal_wifi_off",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n signal wifi off\n <i class=\"material-icons material-icons-signal_wifi_off\"></i>\n </div>\n "
+		},
+		{
+		  "id": "storage",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n storage\n <i class=\"material-icons material-icons-storage\"></i>\n </div>\n "
+		},
+		{
+		  "id": "usb",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n usb\n <i class=\"material-icons material-icons-usb\"></i>\n </div>\n "
+		},
+		{
+		  "id": "wallpaper",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n wallpaper\n <i class=\"material-icons material-icons-wallpaper\"></i>\n </div>\n "
+		},
+		{
+		  "id": "widgets",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n widgets\n <i class=\"material-icons material-icons-widgets\"></i>\n </div>\n "
+		},
+		{
+		  "id": "wifi_lock",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n wifi lock\n <i class=\"material-icons material-icons-wifi_lock\"></i>\n </div>\n "
+		},
+		{
+		  "id": "wifi_tethering",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n wifi tethering\n <i class=\"material-icons material-icons-wifi_tethering\"></i>\n </div>\n "
+		}
+	  ]
+	},
+	{
+	  "text": "editor",
+	  "children": [
+		{
+		  "id": "attach_file",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n attach file\n <i class=\"material-icons material-icons-attach_file\"></i>\n </div>\n "
+		},
+		{
+		  "id": "attach_money",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n attach money\n <i class=\"material-icons material-icons-attach_money\"></i>\n </div>\n "
+		},
+		{
+		  "id": "border_all",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n border all\n <i class=\"material-icons material-icons-border_all\"></i>\n </div>\n "
+		},
+		{
+		  "id": "border_bottom",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n border bottom\n <i class=\"material-icons material-icons-border_bottom\"></i>\n </div>\n "
+		},
+		{
+		  "id": "border_clear",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n border clear\n <i class=\"material-icons material-icons-border_clear\"></i>\n </div>\n "
+		},
+		{
+		  "id": "border_color",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n border color\n <i class=\"material-icons material-icons-border_color\"></i>\n </div>\n "
+		},
+		{
+		  "id": "border_horizontal",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n border horizontal\n <i class=\"material-icons material-icons-border_horizontal\"></i>\n </div>\n "
+		},
+		{
+		  "id": "border_inner",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n border inner\n <i class=\"material-icons material-icons-border_inner\"></i>\n </div>\n "
+		},
+		{
+		  "id": "border_left",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n border left\n <i class=\"material-icons material-icons-border_left\"></i>\n </div>\n "
+		},
+		{
+		  "id": "border_outer",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n border outer\n <i class=\"material-icons material-icons-border_outer\"></i>\n </div>\n "
+		},
+		{
+		  "id": "border_right",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n border right\n <i class=\"material-icons material-icons-border_right\"></i>\n </div>\n "
+		},
+		{
+		  "id": "border_style",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n border style\n <i class=\"material-icons material-icons-border_style\"></i>\n </div>\n "
+		},
+		{
+		  "id": "border_top",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n border top\n <i class=\"material-icons material-icons-border_top\"></i>\n </div>\n "
+		},
+		{
+		  "id": "border_vertical",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n border vertical\n <i class=\"material-icons material-icons-border_vertical\"></i>\n </div>\n "
+		},
+		{
+		  "id": "drag_handle",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n drag handle\n <i class=\"material-icons material-icons-drag_handle\"></i>\n </div>\n "
+		},
+		{
+		  "id": "format_align_center",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n format align center\n <i class=\"material-icons material-icons-format_align_center\"></i>\n </div>\n "
+		},
+		{
+		  "id": "format_align_justify",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n format align justify\n <i class=\"material-icons material-icons-format_align_justify\"></i>\n </div>\n "
+		},
+		{
+		  "id": "format_align_left",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n format align left\n <i class=\"material-icons material-icons-format_align_left\"></i>\n </div>\n "
+		},
+		{
+		  "id": "format_align_right",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n format align right\n <i class=\"material-icons material-icons-format_align_right\"></i>\n </div>\n "
+		},
+		{
+		  "id": "format_bold",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n format bold\n <i class=\"material-icons material-icons-format_bold\"></i>\n </div>\n "
+		},
+		{
+		  "id": "format_clear",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n format clear\n <i class=\"material-icons material-icons-format_clear\"></i>\n </div>\n "
+		},
+		{
+		  "id": "format_color_fill",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n format color fill\n <i class=\"material-icons material-icons-format_color_fill\"></i>\n </div>\n "
+		},
+		{
+		  "id": "format_color_reset",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n format color reset\n <i class=\"material-icons material-icons-format_color_reset\"></i>\n </div>\n "
+		},
+		{
+		  "id": "format_color_text",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n format color text\n <i class=\"material-icons material-icons-format_color_text\"></i>\n </div>\n "
+		},
+		{
+		  "id": "format_indent_decrease",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n format indent decrease\n <i class=\"material-icons material-icons-format_indent_decrease\"></i>\n </div>\n "
+		},
+		{
+		  "id": "format_indent_increase",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n format indent increase\n <i class=\"material-icons material-icons-format_indent_increase\"></i>\n </div>\n "
+		},
+		{
+		  "id": "format_italic",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n format italic\n <i class=\"material-icons material-icons-format_italic\"></i>\n </div>\n "
+		},
+		{
+		  "id": "format_line_spacing",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n format line spacing\n <i class=\"material-icons material-icons-format_line_spacing\"></i>\n </div>\n "
+		},
+		{
+		  "id": "format_list_bulleted",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n format list bulleted\n <i class=\"material-icons material-icons-format_list_bulleted\"></i>\n </div>\n "
+		},
+		{
+		  "id": "format_list_numbered",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n format list numbered\n <i class=\"material-icons material-icons-format_list_numbered\"></i>\n </div>\n "
+		},
+		{
+		  "id": "format_paint",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n format paint\n <i class=\"material-icons material-icons-format_paint\"></i>\n </div>\n "
+		},
+		{
+		  "id": "format_quote",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n format quote\n <i class=\"material-icons material-icons-format_quote\"></i>\n </div>\n "
+		},
+		{
+		  "id": "format_shapes",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n format shapes\n <i class=\"material-icons material-icons-format_shapes\"></i>\n </div>\n "
+		},
+		{
+		  "id": "format_size",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n format size\n <i class=\"material-icons material-icons-format_size\"></i>\n </div>\n "
+		},
+		{
+		  "id": "format_strikethrough",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n format strikethrough\n <i class=\"material-icons material-icons-format_strikethrough\"></i>\n </div>\n "
+		},
+		{
+		  "id": "format_textdirection_l_to_r",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n format textdirection l to r\n <i class=\"material-icons material-icons-format_textdirection_l_to_r\"></i>\n </div>\n "
+		},
+		{
+		  "id": "format_textdirection_r_to_l",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n format textdirection r to l\n <i class=\"material-icons material-icons-format_textdirection_r_to_l\"></i>\n </div>\n "
+		},
+		{
+		  "id": "format_underlined",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n format underlined\n <i class=\"material-icons material-icons-format_underlined\"></i>\n </div>\n "
+		},
+		{
+		  "id": "functions",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n functions\n <i class=\"material-icons material-icons-functions\"></i>\n </div>\n "
+		},
+		{
+		  "id": "highlight",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n highlight\n <i class=\"material-icons material-icons-highlight\"></i>\n </div>\n "
+		},
+		{
+		  "id": "insert_chart",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n insert chart\n <i class=\"material-icons material-icons-insert_chart\"></i>\n </div>\n "
+		},
+		{
+		  "id": "insert_comment",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n insert comment\n <i class=\"material-icons material-icons-insert_comment\"></i>\n </div>\n "
+		},
+		{
+		  "id": "insert_drive_file",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n insert drive file\n <i class=\"material-icons material-icons-insert_drive_file\"></i>\n </div>\n "
+		},
+		{
+		  "id": "insert_emoticon",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n insert emoticon\n <i class=\"material-icons material-icons-insert_emoticon\"></i>\n </div>\n "
+		},
+		{
+		  "id": "insert_invitation",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n insert invitation\n <i class=\"material-icons material-icons-insert_invitation\"></i>\n </div>\n "
+		},
+		{
+		  "id": "insert_link",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n insert link\n <i class=\"material-icons material-icons-insert_link\"></i>\n </div>\n "
+		},
+		{
+		  "id": "insert_photo",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n insert photo\n <i class=\"material-icons material-icons-insert_photo\"></i>\n </div>\n "
+		},
+		{
+		  "id": "linear_scale",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n linear scale\n <i class=\"material-icons material-icons-linear_scale\"></i>\n </div>\n "
+		},
+		{
+		  "id": "merge_type",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n merge type\n <i class=\"material-icons material-icons-merge_type\"></i>\n </div>\n "
+		},
+		{
+		  "id": "mode_comment",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n mode comment\n <i class=\"material-icons material-icons-mode_comment\"></i>\n </div>\n "
+		},
+		{
+		  "id": "mode_edit",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n mode edit\n <i class=\"material-icons material-icons-mode_edit\"></i>\n </div>\n "
+		},
+		{
+		  "id": "money_off",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n money off\n <i class=\"material-icons material-icons-money_off\"></i>\n </div>\n "
+		},
+		{
+		  "id": "publish",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n publish\n <i class=\"material-icons material-icons-publish\"></i>\n </div>\n "
+		},
+		{
+		  "id": "short_text",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n short text\n <i class=\"material-icons material-icons-short_text\"></i>\n </div>\n "
+		},
+		{
+		  "id": "space_bar",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n space bar\n <i class=\"material-icons material-icons-space_bar\"></i>\n </div>\n "
+		},
+		{
+		  "id": "strikethrough_s",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n strikethrough s\n <i class=\"material-icons material-icons-strikethrough_s\"></i>\n </div>\n "
+		},
+		{
+		  "id": "text_fields",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n text fields\n <i class=\"material-icons material-icons-text_fields\"></i>\n </div>\n "
+		},
+		{
+		  "id": "vertical_align_bottom",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n vertical align bottom\n <i class=\"material-icons material-icons-vertical_align_bottom\"></i>\n </div>\n "
+		},
+		{
+		  "id": "vertical_align_center",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n vertical align center\n <i class=\"material-icons material-icons-vertical_align_center\"></i>\n </div>\n "
+		},
+		{
+		  "id": "vertical_align_top",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n vertical align top\n <i class=\"material-icons material-icons-vertical_align_top\"></i>\n </div>\n "
+		},
+		{
+		  "id": "wrap_text",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n wrap text\n <i class=\"material-icons material-icons-wrap_text\"></i>\n </div>\n "
+		}
+	  ]
+	},
+	{
+	  "text": "file",
+	  "children": [
+		{
+		  "id": "attachment",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n attachment\n <i class=\"material-icons material-icons-attachment\"></i>\n </div>\n "
+		},
+		{
+		  "id": "cloud",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n cloud\n <i class=\"material-icons material-icons-cloud\"></i>\n </div>\n "
+		},
+		{
+		  "id": "cloud_circle",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n cloud circle\n <i class=\"material-icons material-icons-cloud_circle\"></i>\n </div>\n "
+		},
+		{
+		  "id": "cloud_done",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n cloud done\n <i class=\"material-icons material-icons-cloud_done\"></i>\n </div>\n "
+		},
+		{
+		  "id": "cloud_download",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n cloud download\n <i class=\"material-icons material-icons-cloud_download\"></i>\n </div>\n "
+		},
+		{
+		  "id": "cloud_off",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n cloud off\n <i class=\"material-icons material-icons-cloud_off\"></i>\n </div>\n "
+		},
+		{
+		  "id": "cloud_queue",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n cloud queue\n <i class=\"material-icons material-icons-cloud_queue\"></i>\n </div>\n "
+		},
+		{
+		  "id": "cloud_upload",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n cloud upload\n <i class=\"material-icons material-icons-cloud_upload\"></i>\n </div>\n "
+		},
+		{
+		  "id": "create_new_folder",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n create new folder\n <i class=\"material-icons material-icons-create_new_folder\"></i>\n </div>\n "
+		},
+		{
+		  "id": "file_download",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n file download\n <i class=\"material-icons material-icons-file_download\"></i>\n </div>\n "
+		},
+		{
+		  "id": "file_upload",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n file upload\n <i class=\"material-icons material-icons-file_upload\"></i>\n </div>\n "
+		},
+		{
+		  "id": "folder",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n folder\n <i class=\"material-icons material-icons-folder\"></i>\n </div>\n "
+		},
+		{
+		  "id": "folder_open",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n folder open\n <i class=\"material-icons material-icons-folder_open\"></i>\n </div>\n "
+		},
+		{
+		  "id": "folder_shared",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n folder shared\n <i class=\"material-icons material-icons-folder_shared\"></i>\n </div>\n "
+		}
+	  ]
+	},
+	{
+	  "text": "hardware",
+	  "children": [
+		{
+		  "id": "cast",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n cast\n <i class=\"material-icons material-icons-cast\"></i>\n </div>\n "
+		},
+		{
+		  "id": "cast_connected",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n cast connected\n <i class=\"material-icons material-icons-cast_connected\"></i>\n </div>\n "
+		},
+		{
+		  "id": "computer",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n computer\n <i class=\"material-icons material-icons-computer\"></i>\n </div>\n "
+		},
+		{
+		  "id": "desktop_mac",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n desktop mac\n <i class=\"material-icons material-icons-desktop_mac\"></i>\n </div>\n "
+		},
+		{
+		  "id": "desktop_windows",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n desktop windows\n <i class=\"material-icons material-icons-desktop_windows\"></i>\n </div>\n "
+		},
+		{
+		  "id": "developer_board",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n developer board\n <i class=\"material-icons material-icons-developer_board\"></i>\n </div>\n "
+		},
+		{
+		  "id": "device_hub",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n device hub\n <i class=\"material-icons material-icons-device_hub\"></i>\n </div>\n "
+		},
+		{
+		  "id": "devices_other",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n devices other\n <i class=\"material-icons material-icons-devices_other\"></i>\n </div>\n "
+		},
+		{
+		  "id": "dock",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n dock\n <i class=\"material-icons material-icons-dock\"></i>\n </div>\n "
+		},
+		{
+		  "id": "gamepad",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n gamepad\n <i class=\"material-icons material-icons-gamepad\"></i>\n </div>\n "
+		},
+		{
+		  "id": "headset",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n headset\n <i class=\"material-icons material-icons-headset\"></i>\n </div>\n "
+		},
+		{
+		  "id": "headset_mic",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n headset mic\n <i class=\"material-icons material-icons-headset_mic\"></i>\n </div>\n "
+		},
+		{
+		  "id": "keyboard",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n keyboard\n <i class=\"material-icons material-icons-keyboard\"></i>\n </div>\n "
+		},
+		{
+		  "id": "keyboard_arrow_down",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n keyboard arrow down\n <i class=\"material-icons material-icons-keyboard_arrow_down\"></i>\n </div>\n "
+		},
+		{
+		  "id": "keyboard_arrow_left",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n keyboard arrow left\n <i class=\"material-icons material-icons-keyboard_arrow_left\"></i>\n </div>\n "
+		},
+		{
+		  "id": "keyboard_arrow_right",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n keyboard arrow right\n <i class=\"material-icons material-icons-keyboard_arrow_right\"></i>\n </div>\n "
+		},
+		{
+		  "id": "keyboard_arrow_up",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n keyboard arrow up\n <i class=\"material-icons material-icons-keyboard_arrow_up\"></i>\n </div>\n "
+		},
+		{
+		  "id": "keyboard_backspace",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n keyboard backspace\n <i class=\"material-icons material-icons-keyboard_backspace\"></i>\n </div>\n "
+		},
+		{
+		  "id": "keyboard_capslock",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n keyboard capslock\n <i class=\"material-icons material-icons-keyboard_capslock\"></i>\n </div>\n "
+		},
+		{
+		  "id": "keyboard_hide",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n keyboard hide\n <i class=\"material-icons material-icons-keyboard_hide\"></i>\n </div>\n "
+		},
+		{
+		  "id": "keyboard_return",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n keyboard return\n <i class=\"material-icons material-icons-keyboard_return\"></i>\n </div>\n "
+		},
+		{
+		  "id": "keyboard_tab",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n keyboard tab\n <i class=\"material-icons material-icons-keyboard_tab\"></i>\n </div>\n "
+		},
+		{
+		  "id": "keyboard_voice",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n keyboard voice\n <i class=\"material-icons material-icons-keyboard_voice\"></i>\n </div>\n "
+		},
+		{
+		  "id": "laptop",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n laptop\n <i class=\"material-icons material-icons-laptop\"></i>\n </div>\n "
+		},
+		{
+		  "id": "laptop_chromebook",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n laptop chromebook\n <i class=\"material-icons material-icons-laptop_chromebook\"></i>\n </div>\n "
+		},
+		{
+		  "id": "laptop_mac",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n laptop mac\n <i class=\"material-icons material-icons-laptop_mac\"></i>\n </div>\n "
+		},
+		{
+		  "id": "laptop_windows",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n laptop windows\n <i class=\"material-icons material-icons-laptop_windows\"></i>\n </div>\n "
+		},
+		{
+		  "id": "memory",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n memory\n <i class=\"material-icons material-icons-memory\"></i>\n </div>\n "
+		},
+		{
+		  "id": "mouse",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n mouse\n <i class=\"material-icons material-icons-mouse\"></i>\n </div>\n "
+		},
+		{
+		  "id": "phone_android",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n phone android\n <i class=\"material-icons material-icons-phone_android\"></i>\n </div>\n "
+		},
+		{
+		  "id": "phone_iphone",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n phone iphone\n <i class=\"material-icons material-icons-phone_iphone\"></i>\n </div>\n "
+		},
+		{
+		  "id": "phonelink",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n phonelink\n <i class=\"material-icons material-icons-phonelink\"></i>\n </div>\n "
+		},
+		{
+		  "id": "phonelink_off",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n phonelink off\n <i class=\"material-icons material-icons-phonelink_off\"></i>\n </div>\n "
+		},
+		{
+		  "id": "power_input",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n power input\n <i class=\"material-icons material-icons-power_input\"></i>\n </div>\n "
+		},
+		{
+		  "id": "router",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n router\n <i class=\"material-icons material-icons-router\"></i>\n </div>\n "
+		},
+		{
+		  "id": "scanner",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n scanner\n <i class=\"material-icons material-icons-scanner\"></i>\n </div>\n "
+		},
+		{
+		  "id": "security",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n security\n <i class=\"material-icons material-icons-security\"></i>\n </div>\n "
+		},
+		{
+		  "id": "sim_card",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n sim card\n <i class=\"material-icons material-icons-sim_card\"></i>\n </div>\n "
+		},
+		{
+		  "id": "smartphone",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n smartphone\n <i class=\"material-icons material-icons-smartphone\"></i>\n </div>\n "
+		},
+		{
+		  "id": "speaker",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n speaker\n <i class=\"material-icons material-icons-speaker\"></i>\n </div>\n "
+		},
+		{
+		  "id": "speaker_group",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n speaker group\n <i class=\"material-icons material-icons-speaker_group\"></i>\n </div>\n "
+		},
+		{
+		  "id": "tablet",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n tablet\n <i class=\"material-icons material-icons-tablet\"></i>\n </div>\n "
+		},
+		{
+		  "id": "tablet_android",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n tablet android\n <i class=\"material-icons material-icons-tablet_android\"></i>\n </div>\n "
+		},
+		{
+		  "id": "tablet_mac",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n tablet mac\n <i class=\"material-icons material-icons-tablet_mac\"></i>\n </div>\n "
+		},
+		{
+		  "id": "toys",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n toys\n <i class=\"material-icons material-icons-toys\"></i>\n </div>\n "
+		},
+		{
+		  "id": "tv",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n tv\n <i class=\"material-icons material-icons-tv\"></i>\n </div>\n "
+		},
+		{
+		  "id": "videogame_asset",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n videogame asset\n <i class=\"material-icons material-icons-videogame_asset\"></i>\n </div>\n "
+		},
+		{
+		  "id": "watch",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n watch\n <i class=\"material-icons material-icons-watch\"></i>\n </div>\n "
+		}
+	  ]
+	},
+	{
+	  "text": "image",
+	  "children": [
+		{
+		  "id": "add_a_photo",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n add a photo\n <i class=\"material-icons material-icons-add_a_photo\"></i>\n </div>\n "
+		},
+		{
+		  "id": "add_to_photos",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n add to photos\n <i class=\"material-icons material-icons-add_to_photos\"></i>\n </div>\n "
+		},
+		{
+		  "id": "adjust",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n adjust\n <i class=\"material-icons material-icons-adjust\"></i>\n </div>\n "
+		},
+		{
+		  "id": "assistant",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n assistant\n <i class=\"material-icons material-icons-assistant\"></i>\n </div>\n "
+		},
+		{
+		  "id": "assistant_photo",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n assistant photo\n <i class=\"material-icons material-icons-assistant_photo\"></i>\n </div>\n "
+		},
+		{
+		  "id": "audiotrack",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n audiotrack\n <i class=\"material-icons material-icons-audiotrack\"></i>\n </div>\n "
+		},
+		{
+		  "id": "blur_circular",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n blur circular\n <i class=\"material-icons material-icons-blur_circular\"></i>\n </div>\n "
+		},
+		{
+		  "id": "blur_linear",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n blur linear\n <i class=\"material-icons material-icons-blur_linear\"></i>\n </div>\n "
+		},
+		{
+		  "id": "blur_off",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n blur off\n <i class=\"material-icons material-icons-blur_off\"></i>\n </div>\n "
+		},
+		{
+		  "id": "blur_on",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n blur on\n <i class=\"material-icons material-icons-blur_on\"></i>\n </div>\n "
+		},
+		{
+		  "id": "brightness_1",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n brightness 1\n <i class=\"material-icons material-icons-brightness_1\"></i>\n </div>\n "
+		},
+		{
+		  "id": "brightness_2",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n brightness 2\n <i class=\"material-icons material-icons-brightness_2\"></i>\n </div>\n "
+		},
+		{
+		  "id": "brightness_3",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n brightness 3\n <i class=\"material-icons material-icons-brightness_3\"></i>\n </div>\n "
+		},
+		{
+		  "id": "brightness_4",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n brightness 4\n <i class=\"material-icons material-icons-brightness_4\"></i>\n </div>\n "
+		},
+		{
+		  "id": "brightness_5",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n brightness 5\n <i class=\"material-icons material-icons-brightness_5\"></i>\n </div>\n "
+		},
+		{
+		  "id": "brightness_6",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n brightness 6\n <i class=\"material-icons material-icons-brightness_6\"></i>\n </div>\n "
+		},
+		{
+		  "id": "brightness_7",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n brightness 7\n <i class=\"material-icons material-icons-brightness_7\"></i>\n </div>\n "
+		},
+		{
+		  "id": "broken_image",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n broken image\n <i class=\"material-icons material-icons-broken_image\"></i>\n </div>\n "
+		},
+		{
+		  "id": "brush",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n brush\n <i class=\"material-icons material-icons-brush\"></i>\n </div>\n "
+		},
+		{
+		  "id": "camera",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n camera\n <i class=\"material-icons material-icons-camera\"></i>\n </div>\n "
+		},
+		{
+		  "id": "camera_alt",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n camera alt\n <i class=\"material-icons material-icons-camera_alt\"></i>\n </div>\n "
+		},
+		{
+		  "id": "camera_front",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n camera front\n <i class=\"material-icons material-icons-camera_front\"></i>\n </div>\n "
+		},
+		{
+		  "id": "camera_rear",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n camera rear\n <i class=\"material-icons material-icons-camera_rear\"></i>\n </div>\n "
+		},
+		{
+		  "id": "camera_roll",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n camera roll\n <i class=\"material-icons material-icons-camera_roll\"></i>\n </div>\n "
+		},
+		{
+		  "id": "center_focus_strong",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n center focus strong\n <i class=\"material-icons material-icons-center_focus_strong\"></i>\n </div>\n "
+		},
+		{
+		  "id": "center_focus_weak",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n center focus weak\n <i class=\"material-icons material-icons-center_focus_weak\"></i>\n </div>\n "
+		},
+		{
+		  "id": "collections",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n collections\n <i class=\"material-icons material-icons-collections\"></i>\n </div>\n "
+		},
+		{
+		  "id": "collections_bookmark",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n collections bookmark\n <i class=\"material-icons material-icons-collections_bookmark\"></i>\n </div>\n "
+		},
+		{
+		  "id": "color_lens",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n color lens\n <i class=\"material-icons material-icons-color_lens\"></i>\n </div>\n "
+		},
+		{
+		  "id": "colorize",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n colorize\n <i class=\"material-icons material-icons-colorize\"></i>\n </div>\n "
+		},
+		{
+		  "id": "compare",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n compare\n <i class=\"material-icons material-icons-compare\"></i>\n </div>\n "
+		},
+		{
+		  "id": "control_point",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n control point\n <i class=\"material-icons material-icons-control_point\"></i>\n </div>\n "
+		},
+		{
+		  "id": "control_point_duplicate",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n control point duplicate\n <i class=\"material-icons material-icons-control_point_duplicate\"></i>\n </div>\n "
+		},
+		{
+		  "id": "crop",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n crop\n <i class=\"material-icons material-icons-crop\"></i>\n </div>\n "
+		},
+		{
+		  "id": "crop_16_9",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n crop 16 9\n <i class=\"material-icons material-icons-crop_16_9\"></i>\n </div>\n "
+		},
+		{
+		  "id": "crop_3_2",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n crop 3 2\n <i class=\"material-icons material-icons-crop_3_2\"></i>\n </div>\n "
+		},
+		{
+		  "id": "crop_5_4",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n crop 5 4\n <i class=\"material-icons material-icons-crop_5_4\"></i>\n </div>\n "
+		},
+		{
+		  "id": "crop_7_5",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n crop 7 5\n <i class=\"material-icons material-icons-crop_7_5\"></i>\n </div>\n "
+		},
+		{
+		  "id": "crop_din",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n crop din\n <i class=\"material-icons material-icons-crop_din\"></i>\n </div>\n "
+		},
+		{
+		  "id": "crop_free",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n crop free\n <i class=\"material-icons material-icons-crop_free\"></i>\n </div>\n "
+		},
+		{
+		  "id": "crop_landscape",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n crop landscape\n <i class=\"material-icons material-icons-crop_landscape\"></i>\n </div>\n "
+		},
+		{
+		  "id": "crop_original",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n crop original\n <i class=\"material-icons material-icons-crop_original\"></i>\n </div>\n "
+		},
+		{
+		  "id": "crop_portrait",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n crop portrait\n <i class=\"material-icons material-icons-crop_portrait\"></i>\n </div>\n "
+		},
+		{
+		  "id": "crop_rotate",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n crop rotate\n <i class=\"material-icons material-icons-crop_rotate\"></i>\n </div>\n "
+		},
+		{
+		  "id": "crop_square",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n crop square\n <i class=\"material-icons material-icons-crop_square\"></i>\n </div>\n "
+		},
+		{
+		  "id": "dehaze",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n dehaze\n <i class=\"material-icons material-icons-dehaze\"></i>\n </div>\n "
+		},
+		{
+		  "id": "details",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n details\n <i class=\"material-icons material-icons-details\"></i>\n </div>\n "
+		},
+		{
+		  "id": "edit",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n edit\n <i class=\"material-icons material-icons-edit\"></i>\n </div>\n "
+		},
+		{
+		  "id": "exposure",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n exposure\n <i class=\"material-icons material-icons-exposure\"></i>\n </div>\n "
+		},
+		{
+		  "id": "exposure_neg_1",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n exposure neg 1\n <i class=\"material-icons material-icons-exposure_neg_1\"></i>\n </div>\n "
+		},
+		{
+		  "id": "exposure_neg_2",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n exposure neg 2\n <i class=\"material-icons material-icons-exposure_neg_2\"></i>\n </div>\n "
+		},
+		{
+		  "id": "exposure_plus_1",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n exposure plus 1\n <i class=\"material-icons material-icons-exposure_plus_1\"></i>\n </div>\n "
+		},
+		{
+		  "id": "exposure_plus_2",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n exposure plus 2\n <i class=\"material-icons material-icons-exposure_plus_2\"></i>\n </div>\n "
+		},
+		{
+		  "id": "exposure_zero",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n exposure zero\n <i class=\"material-icons material-icons-exposure_zero\"></i>\n </div>\n "
+		},
+		{
+		  "id": "filter",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n filter\n <i class=\"material-icons material-icons-filter\"></i>\n </div>\n "
+		},
+		{
+		  "id": "filter_1",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n filter 1\n <i class=\"material-icons material-icons-filter_1\"></i>\n </div>\n "
+		},
+		{
+		  "id": "filter_2",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n filter 2\n <i class=\"material-icons material-icons-filter_2\"></i>\n </div>\n "
+		},
+		{
+		  "id": "filter_3",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n filter 3\n <i class=\"material-icons material-icons-filter_3\"></i>\n </div>\n "
+		},
+		{
+		  "id": "filter_4",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n filter 4\n <i class=\"material-icons material-icons-filter_4\"></i>\n </div>\n "
+		},
+		{
+		  "id": "filter_5",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n filter 5\n <i class=\"material-icons material-icons-filter_5\"></i>\n </div>\n "
+		},
+		{
+		  "id": "filter_6",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n filter 6\n <i class=\"material-icons material-icons-filter_6\"></i>\n </div>\n "
+		},
+		{
+		  "id": "filter_7",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n filter 7\n <i class=\"material-icons material-icons-filter_7\"></i>\n </div>\n "
+		},
+		{
+		  "id": "filter_8",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n filter 8\n <i class=\"material-icons material-icons-filter_8\"></i>\n </div>\n "
+		},
+		{
+		  "id": "filter_9",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n filter 9\n <i class=\"material-icons material-icons-filter_9\"></i>\n </div>\n "
+		},
+		{
+		  "id": "filter_9_plus",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n filter 9 plus\n <i class=\"material-icons material-icons-filter_9_plus\"></i>\n </div>\n "
+		},
+		{
+		  "id": "filter_b_and_w",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n filter b and w\n <i class=\"material-icons material-icons-filter_b_and_w\"></i>\n </div>\n "
+		},
+		{
+		  "id": "filter_center_focus",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n filter center focus\n <i class=\"material-icons material-icons-filter_center_focus\"></i>\n </div>\n "
+		},
+		{
+		  "id": "filter_drama",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n filter drama\n <i class=\"material-icons material-icons-filter_drama\"></i>\n </div>\n "
+		},
+		{
+		  "id": "filter_frames",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n filter frames\n <i class=\"material-icons material-icons-filter_frames\"></i>\n </div>\n "
+		},
+		{
+		  "id": "filter_hdr",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n filter hdr\n <i class=\"material-icons material-icons-filter_hdr\"></i>\n </div>\n "
+		},
+		{
+		  "id": "filter_none",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n filter none\n <i class=\"material-icons material-icons-filter_none\"></i>\n </div>\n "
+		},
+		{
+		  "id": "filter_tilt_shift",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n filter tilt shift\n <i class=\"material-icons material-icons-filter_tilt_shift\"></i>\n </div>\n "
+		},
+		{
+		  "id": "filter_vintage",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n filter vintage\n <i class=\"material-icons material-icons-filter_vintage\"></i>\n </div>\n "
+		},
+		{
+		  "id": "flare",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n flare\n <i class=\"material-icons material-icons-flare\"></i>\n </div>\n "
+		},
+		{
+		  "id": "flash_auto",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n flash auto\n <i class=\"material-icons material-icons-flash_auto\"></i>\n </div>\n "
+		},
+		{
+		  "id": "flash_off",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n flash off\n <i class=\"material-icons material-icons-flash_off\"></i>\n </div>\n "
+		},
+		{
+		  "id": "flash_on",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n flash on\n <i class=\"material-icons material-icons-flash_on\"></i>\n </div>\n "
+		},
+		{
+		  "id": "flip",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n flip\n <i class=\"material-icons material-icons-flip\"></i>\n </div>\n "
+		},
+		{
+		  "id": "gradient",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n gradient\n <i class=\"material-icons material-icons-gradient\"></i>\n </div>\n "
+		},
+		{
+		  "id": "grain",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n grain\n <i class=\"material-icons material-icons-grain\"></i>\n </div>\n "
+		},
+		{
+		  "id": "grid_off",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n grid off\n <i class=\"material-icons material-icons-grid_off\"></i>\n </div>\n "
+		},
+		{
+		  "id": "grid_on",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n grid on\n <i class=\"material-icons material-icons-grid_on\"></i>\n </div>\n "
+		},
+		{
+		  "id": "hdr_off",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n hdr off\n <i class=\"material-icons material-icons-hdr_off\"></i>\n </div>\n "
+		},
+		{
+		  "id": "hdr_on",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n hdr on\n <i class=\"material-icons material-icons-hdr_on\"></i>\n </div>\n "
+		},
+		{
+		  "id": "hdr_strong",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n hdr strong\n <i class=\"material-icons material-icons-hdr_strong\"></i>\n </div>\n "
+		},
+		{
+		  "id": "hdr_weak",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n hdr weak\n <i class=\"material-icons material-icons-hdr_weak\"></i>\n </div>\n "
+		},
+		{
+		  "id": "healing",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n healing\n <i class=\"material-icons material-icons-healing\"></i>\n </div>\n "
+		},
+		{
+		  "id": "image",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n image\n <i class=\"material-icons material-icons-image\"></i>\n </div>\n "
+		},
+		{
+		  "id": "image_aspect_ratio",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n image aspect ratio\n <i class=\"material-icons material-icons-image_aspect_ratio\"></i>\n </div>\n "
+		},
+		{
+		  "id": "iso",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n iso\n <i class=\"material-icons material-icons-iso\"></i>\n </div>\n "
+		},
+		{
+		  "id": "landscape",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n landscape\n <i class=\"material-icons material-icons-landscape\"></i>\n </div>\n "
+		},
+		{
+		  "id": "leak_add",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n leak add\n <i class=\"material-icons material-icons-leak_add\"></i>\n </div>\n "
+		},
+		{
+		  "id": "leak_remove",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n leak remove\n <i class=\"material-icons material-icons-leak_remove\"></i>\n </div>\n "
+		},
+		{
+		  "id": "lens",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n lens\n <i class=\"material-icons material-icons-lens\"></i>\n </div>\n "
+		},
+		{
+		  "id": "linked_camera",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n linked camera\n <i class=\"material-icons material-icons-linked_camera\"></i>\n </div>\n "
+		},
+		{
+		  "id": "looks",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n looks\n <i class=\"material-icons material-icons-looks\"></i>\n </div>\n "
+		},
+		{
+		  "id": "looks_3",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n looks 3\n <i class=\"material-icons material-icons-looks_3\"></i>\n </div>\n "
+		},
+		{
+		  "id": "looks_4",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n looks 4\n <i class=\"material-icons material-icons-looks_4\"></i>\n </div>\n "
+		},
+		{
+		  "id": "looks_5",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n looks 5\n <i class=\"material-icons material-icons-looks_5\"></i>\n </div>\n "
+		},
+		{
+		  "id": "looks_6",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n looks 6\n <i class=\"material-icons material-icons-looks_6\"></i>\n </div>\n "
+		},
+		{
+		  "id": "looks_one",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n looks one\n <i class=\"material-icons material-icons-looks_one\"></i>\n </div>\n "
+		},
+		{
+		  "id": "looks_two",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n looks two\n <i class=\"material-icons material-icons-looks_two\"></i>\n </div>\n "
+		},
+		{
+		  "id": "loupe",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n loupe\n <i class=\"material-icons material-icons-loupe\"></i>\n </div>\n "
+		},
+		{
+		  "id": "monochrome_photos",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n monochrome photos\n <i class=\"material-icons material-icons-monochrome_photos\"></i>\n </div>\n "
+		},
+		{
+		  "id": "movie_creation",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n movie creation\n <i class=\"material-icons material-icons-movie_creation\"></i>\n </div>\n "
+		},
+		{
+		  "id": "movie_filter",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n movie filter\n <i class=\"material-icons material-icons-movie_filter\"></i>\n </div>\n "
+		},
+		{
+		  "id": "music_note",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n music note\n <i class=\"material-icons material-icons-music_note\"></i>\n </div>\n "
+		},
+		{
+		  "id": "nature",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n nature\n <i class=\"material-icons material-icons-nature\"></i>\n </div>\n "
+		},
+		{
+		  "id": "nature_people",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n nature people\n <i class=\"material-icons material-icons-nature_people\"></i>\n </div>\n "
+		},
+		{
+		  "id": "navigate_before",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n navigate before\n <i class=\"material-icons material-icons-navigate_before\"></i>\n </div>\n "
+		},
+		{
+		  "id": "navigate_next",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n navigate next\n <i class=\"material-icons material-icons-navigate_next\"></i>\n </div>\n "
+		},
+		{
+		  "id": "palette",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n palette\n <i class=\"material-icons material-icons-palette\"></i>\n </div>\n "
+		},
+		{
+		  "id": "panorama",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n panorama\n <i class=\"material-icons material-icons-panorama\"></i>\n </div>\n "
+		},
+		{
+		  "id": "panorama_fish_eye",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n panorama fish eye\n <i class=\"material-icons material-icons-panorama_fish_eye\"></i>\n </div>\n "
+		},
+		{
+		  "id": "panorama_horizontal",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n panorama horizontal\n <i class=\"material-icons material-icons-panorama_horizontal\"></i>\n </div>\n "
+		},
+		{
+		  "id": "panorama_vertical",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n panorama vertical\n <i class=\"material-icons material-icons-panorama_vertical\"></i>\n </div>\n "
+		},
+		{
+		  "id": "panorama_wide_angle",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n panorama wide angle\n <i class=\"material-icons material-icons-panorama_wide_angle\"></i>\n </div>\n "
+		},
+		{
+		  "id": "photo",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n photo\n <i class=\"material-icons material-icons-photo\"></i>\n </div>\n "
+		},
+		{
+		  "id": "photo_album",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n photo album\n <i class=\"material-icons material-icons-photo_album\"></i>\n </div>\n "
+		},
+		{
+		  "id": "photo_camera",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n photo camera\n <i class=\"material-icons material-icons-photo_camera\"></i>\n </div>\n "
+		},
+		{
+		  "id": "photo_filter",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n photo filter\n <i class=\"material-icons material-icons-photo_filter\"></i>\n </div>\n "
+		},
+		{
+		  "id": "photo_library",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n photo library\n <i class=\"material-icons material-icons-photo_library\"></i>\n </div>\n "
+		},
+		{
+		  "id": "photo_size_select_actual",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n photo size select actual\n <i class=\"material-icons material-icons-photo_size_select_actual\"></i>\n </div>\n "
+		},
+		{
+		  "id": "photo_size_select_large",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n photo size select large\n <i class=\"material-icons material-icons-photo_size_select_large\"></i>\n </div>\n "
+		},
+		{
+		  "id": "photo_size_select_small",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n photo size select small\n <i class=\"material-icons material-icons-photo_size_select_small\"></i>\n </div>\n "
+		},
+		{
+		  "id": "picture_as_pdf",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n picture as pdf\n <i class=\"material-icons material-icons-picture_as_pdf\"></i>\n </div>\n "
+		},
+		{
+		  "id": "portrait",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n portrait\n <i class=\"material-icons material-icons-portrait\"></i>\n </div>\n "
+		},
+		{
+		  "id": "remove_red_eye",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n remove red eye\n <i class=\"material-icons material-icons-remove_red_eye\"></i>\n </div>\n "
+		},
+		{
+		  "id": "rotate_90_degrees_ccw",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n rotate 90 degrees ccw\n <i class=\"material-icons material-icons-rotate_90_degrees_ccw\"></i>\n </div>\n "
+		},
+		{
+		  "id": "rotate_left",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n rotate left\n <i class=\"material-icons material-icons-rotate_left\"></i>\n </div>\n "
+		},
+		{
+		  "id": "rotate_right",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n rotate right\n <i class=\"material-icons material-icons-rotate_right\"></i>\n </div>\n "
+		},
+		{
+		  "id": "slideshow",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n slideshow\n <i class=\"material-icons material-icons-slideshow\"></i>\n </div>\n "
+		},
+		{
+		  "id": "straighten",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n straighten\n <i class=\"material-icons material-icons-straighten\"></i>\n </div>\n "
+		},
+		{
+		  "id": "style",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n style\n <i class=\"material-icons material-icons-style\"></i>\n </div>\n "
+		},
+		{
+		  "id": "switch_camera",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n switch camera\n <i class=\"material-icons material-icons-switch_camera\"></i>\n </div>\n "
+		},
+		{
+		  "id": "switch_video",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n switch video\n <i class=\"material-icons material-icons-switch_video\"></i>\n </div>\n "
+		},
+		{
+		  "id": "tag_faces",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n tag faces\n <i class=\"material-icons material-icons-tag_faces\"></i>\n </div>\n "
+		},
+		{
+		  "id": "texture",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n texture\n <i class=\"material-icons material-icons-texture\"></i>\n </div>\n "
+		},
+		{
+		  "id": "timelapse",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n timelapse\n <i class=\"material-icons material-icons-timelapse\"></i>\n </div>\n "
+		},
+		{
+		  "id": "timer",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n timer\n <i class=\"material-icons material-icons-timer\"></i>\n </div>\n "
+		},
+		{
+		  "id": "timer_10",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n timer 10\n <i class=\"material-icons material-icons-timer_10\"></i>\n </div>\n "
+		},
+		{
+		  "id": "timer_3",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n timer 3\n <i class=\"material-icons material-icons-timer_3\"></i>\n </div>\n "
+		},
+		{
+		  "id": "timer_off",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n timer off\n <i class=\"material-icons material-icons-timer_off\"></i>\n </div>\n "
+		},
+		{
+		  "id": "tonality",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n tonality\n <i class=\"material-icons material-icons-tonality\"></i>\n </div>\n "
+		},
+		{
+		  "id": "transform",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n transform\n <i class=\"material-icons material-icons-transform\"></i>\n </div>\n "
+		},
+		{
+		  "id": "tune",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n tune\n <i class=\"material-icons material-icons-tune\"></i>\n </div>\n "
+		},
+		{
+		  "id": "view_comfy",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n view comfy\n <i class=\"material-icons material-icons-view_comfy\"></i>\n </div>\n "
+		},
+		{
+		  "id": "view_compact",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n view compact\n <i class=\"material-icons material-icons-view_compact\"></i>\n </div>\n "
+		},
+		{
+		  "id": "vignette",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n vignette\n <i class=\"material-icons material-icons-vignette\"></i>\n </div>\n "
+		},
+		{
+		  "id": "wb_auto",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n wb auto\n <i class=\"material-icons material-icons-wb_auto\"></i>\n </div>\n "
+		},
+		{
+		  "id": "wb_cloudy",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n wb cloudy\n <i class=\"material-icons material-icons-wb_cloudy\"></i>\n </div>\n "
+		},
+		{
+		  "id": "wb_incandescent",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n wb incandescent\n <i class=\"material-icons material-icons-wb_incandescent\"></i>\n </div>\n "
+		},
+		{
+		  "id": "wb_iridescent",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n wb iridescent\n <i class=\"material-icons material-icons-wb_iridescent\"></i>\n </div>\n "
+		},
+		{
+		  "id": "wb_sunny",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n wb sunny\n <i class=\"material-icons material-icons-wb_sunny\"></i>\n </div>\n "
+		}
+	  ]
+	},
+	{
+	  "text": "maps",
+	  "children": [
+		{
+		  "id": "add_location",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n add location\n <i class=\"material-icons material-icons-add_location\"></i>\n </div>\n "
+		},
+		{
+		  "id": "beenhere",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n beenhere\n <i class=\"material-icons material-icons-beenhere\"></i>\n </div>\n "
+		},
+		{
+		  "id": "directions",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n directions\n <i class=\"material-icons material-icons-directions\"></i>\n </div>\n "
+		},
+		{
+		  "id": "directions_bike",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n directions bike\n <i class=\"material-icons material-icons-directions_bike\"></i>\n </div>\n "
+		},
+		{
+		  "id": "directions_boat",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n directions boat\n <i class=\"material-icons material-icons-directions_boat\"></i>\n </div>\n "
+		},
+		{
+		  "id": "directions_bus",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n directions bus\n <i class=\"material-icons material-icons-directions_bus\"></i>\n </div>\n "
+		},
+		{
+		  "id": "directions_car",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n directions car\n <i class=\"material-icons material-icons-directions_car\"></i>\n </div>\n "
+		},
+		{
+		  "id": "directions_railway",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n directions railway\n <i class=\"material-icons material-icons-directions_railway\"></i>\n </div>\n "
+		},
+		{
+		  "id": "directions_run",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n directions run\n <i class=\"material-icons material-icons-directions_run\"></i>\n </div>\n "
+		},
+		{
+		  "id": "directions_subway",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n directions subway\n <i class=\"material-icons material-icons-directions_subway\"></i>\n </div>\n "
+		},
+		{
+		  "id": "directions_transit",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n directions transit\n <i class=\"material-icons material-icons-directions_transit\"></i>\n </div>\n "
+		},
+		{
+		  "id": "directions_walk",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n directions walk\n <i class=\"material-icons material-icons-directions_walk\"></i>\n </div>\n "
+		},
+		{
+		  "id": "edit_location",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n edit location\n <i class=\"material-icons material-icons-edit_location\"></i>\n </div>\n "
+		},
+		{
+		  "id": "flight",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n flight\n <i class=\"material-icons material-icons-flight\"></i>\n </div>\n "
+		},
+		{
+		  "id": "hotel",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n hotel\n <i class=\"material-icons material-icons-hotel\"></i>\n </div>\n "
+		},
+		{
+		  "id": "layers",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n layers\n <i class=\"material-icons material-icons-layers\"></i>\n </div>\n "
+		},
+		{
+		  "id": "layers_clear",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n layers clear\n <i class=\"material-icons material-icons-layers_clear\"></i>\n </div>\n "
+		},
+		{
+		  "id": "local_activity",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n local activity\n <i class=\"material-icons material-icons-local_activity\"></i>\n </div>\n "
+		},
+		{
+		  "id": "local_airport",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n local airport\n <i class=\"material-icons material-icons-local_airport\"></i>\n </div>\n "
+		},
+		{
+		  "id": "local_atm",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n local atm\n <i class=\"material-icons material-icons-local_atm\"></i>\n </div>\n "
+		},
+		{
+		  "id": "local_bar",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n local bar\n <i class=\"material-icons material-icons-local_bar\"></i>\n </div>\n "
+		},
+		{
+		  "id": "local_cafe",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n local cafe\n <i class=\"material-icons material-icons-local_cafe\"></i>\n </div>\n "
+		},
+		{
+		  "id": "local_car_wash",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n local car wash\n <i class=\"material-icons material-icons-local_car_wash\"></i>\n </div>\n "
+		},
+		{
+		  "id": "local_convenience_store",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n local convenience store\n <i class=\"material-icons material-icons-local_convenience_store\"></i>\n </div>\n "
+		},
+		{
+		  "id": "local_dining",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n local dining\n <i class=\"material-icons material-icons-local_dining\"></i>\n </div>\n "
+		},
+		{
+		  "id": "local_drink",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n local drink\n <i class=\"material-icons material-icons-local_drink\"></i>\n </div>\n "
+		},
+		{
+		  "id": "local_florist",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n local florist\n <i class=\"material-icons material-icons-local_florist\"></i>\n </div>\n "
+		},
+		{
+		  "id": "local_gas_station",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n local gas station\n <i class=\"material-icons material-icons-local_gas_station\"></i>\n </div>\n "
+		},
+		{
+		  "id": "local_grocery_store",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n local grocery store\n <i class=\"material-icons material-icons-local_grocery_store\"></i>\n </div>\n "
+		},
+		{
+		  "id": "local_hospital",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n local hospital\n <i class=\"material-icons material-icons-local_hospital\"></i>\n </div>\n "
+		},
+		{
+		  "id": "local_hotel",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n local hotel\n <i class=\"material-icons material-icons-local_hotel\"></i>\n </div>\n "
+		},
+		{
+		  "id": "local_laundry_service",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n local laundry service\n <i class=\"material-icons material-icons-local_laundry_service\"></i>\n </div>\n "
+		},
+		{
+		  "id": "local_library",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n local library\n <i class=\"material-icons material-icons-local_library\"></i>\n </div>\n "
+		},
+		{
+		  "id": "local_mall",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n local mall\n <i class=\"material-icons material-icons-local_mall\"></i>\n </div>\n "
+		},
+		{
+		  "id": "local_movies",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n local movies\n <i class=\"material-icons material-icons-local_movies\"></i>\n </div>\n "
+		},
+		{
+		  "id": "local_offer",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n local offer\n <i class=\"material-icons material-icons-local_offer\"></i>\n </div>\n "
+		},
+		{
+		  "id": "local_parking",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n local parking\n <i class=\"material-icons material-icons-local_parking\"></i>\n </div>\n "
+		},
+		{
+		  "id": "local_pharmacy",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n local pharmacy\n <i class=\"material-icons material-icons-local_pharmacy\"></i>\n </div>\n "
+		},
+		{
+		  "id": "local_phone",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n local phone\n <i class=\"material-icons material-icons-local_phone\"></i>\n </div>\n "
+		},
+		{
+		  "id": "local_pizza",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n local pizza\n <i class=\"material-icons material-icons-local_pizza\"></i>\n </div>\n "
+		},
+		{
+		  "id": "local_play",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n local play\n <i class=\"material-icons material-icons-local_play\"></i>\n </div>\n "
+		},
+		{
+		  "id": "local_post_office",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n local post office\n <i class=\"material-icons material-icons-local_post_office\"></i>\n </div>\n "
+		},
+		{
+		  "id": "local_printshop",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n local printshop\n <i class=\"material-icons material-icons-local_printshop\"></i>\n </div>\n "
+		},
+		{
+		  "id": "local_see",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n local see\n <i class=\"material-icons material-icons-local_see\"></i>\n </div>\n "
+		},
+		{
+		  "id": "local_shipping",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n local shipping\n <i class=\"material-icons material-icons-local_shipping\"></i>\n </div>\n "
+		},
+		{
+		  "id": "local_taxi",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n local taxi\n <i class=\"material-icons material-icons-local_taxi\"></i>\n </div>\n "
+		},
+		{
+		  "id": "map",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n map\n <i class=\"material-icons material-icons-map\"></i>\n </div>\n "
+		},
+		{
+		  "id": "my_location",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n my location\n <i class=\"material-icons material-icons-my_location\"></i>\n </div>\n "
+		},
+		{
+		  "id": "navigation",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n navigation\n <i class=\"material-icons material-icons-navigation\"></i>\n </div>\n "
+		},
+		{
+		  "id": "near_me",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n near me\n <i class=\"material-icons material-icons-near_me\"></i>\n </div>\n "
+		},
+		{
+		  "id": "person_pin",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n person pin\n <i class=\"material-icons material-icons-person_pin\"></i>\n </div>\n "
+		},
+		{
+		  "id": "person_pin_circle",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n person pin circle\n <i class=\"material-icons material-icons-person_pin_circle\"></i>\n </div>\n "
+		},
+		{
+		  "id": "pin_drop",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n pin drop\n <i class=\"material-icons material-icons-pin_drop\"></i>\n </div>\n "
+		},
+		{
+		  "id": "place",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n place\n <i class=\"material-icons material-icons-place\"></i>\n </div>\n "
+		},
+		{
+		  "id": "rate_review",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n rate review\n <i class=\"material-icons material-icons-rate_review\"></i>\n </div>\n "
+		},
+		{
+		  "id": "restaurant_menu",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n restaurant menu\n <i class=\"material-icons material-icons-restaurant_menu\"></i>\n </div>\n "
+		},
+		{
+		  "id": "satellite",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n satellite\n <i class=\"material-icons material-icons-satellite\"></i>\n </div>\n "
+		},
+		{
+		  "id": "store_mall_directory",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n store mall directory\n <i class=\"material-icons material-icons-store_mall_directory\"></i>\n </div>\n "
+		},
+		{
+		  "id": "terrain",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n terrain\n <i class=\"material-icons material-icons-terrain\"></i>\n </div>\n "
+		},
+		{
+		  "id": "traffic",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n traffic\n <i class=\"material-icons material-icons-traffic\"></i>\n </div>\n "
+		},
+		{
+		  "id": "zoom_out_map",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n zoom out map\n <i class=\"material-icons material-icons-zoom_out_map\"></i>\n </div>\n "
+		}
+	  ]
+	},
+	{
+	  "text": "navigation",
+	  "children": [
+		{
+		  "id": "apps",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n apps\n <i class=\"material-icons material-icons-apps\"></i>\n </div>\n "
+		},
+		{
+		  "id": "arrow_back",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n arrow back\n <i class=\"material-icons material-icons-arrow_back\"></i>\n </div>\n "
+		},
+		{
+		  "id": "arrow_downward",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n arrow downward\n <i class=\"material-icons material-icons-arrow_downward\"></i>\n </div>\n "
+		},
+		{
+		  "id": "arrow_drop_down",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n arrow drop down\n <i class=\"material-icons material-icons-arrow_drop_down\"></i>\n </div>\n "
+		},
+		{
+		  "id": "arrow_drop_down_circle",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n arrow drop down circle\n <i class=\"material-icons material-icons-arrow_drop_down_circle\"></i>\n </div>\n "
+		},
+		{
+		  "id": "arrow_drop_up",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n arrow drop up\n <i class=\"material-icons material-icons-arrow_drop_up\"></i>\n </div>\n "
+		},
+		{
+		  "id": "arrow_forward",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n arrow forward\n <i class=\"material-icons material-icons-arrow_forward\"></i>\n </div>\n "
+		},
+		{
+		  "id": "arrow_upward",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n arrow upward\n <i class=\"material-icons material-icons-arrow_upward\"></i>\n </div>\n "
+		},
+		{
+		  "id": "cancel",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n cancel\n <i class=\"material-icons material-icons-cancel\"></i>\n </div>\n "
+		},
+		{
+		  "id": "check",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n check\n <i class=\"material-icons material-icons-check\"></i>\n </div>\n "
+		},
+		{
+		  "id": "chevron_left",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n chevron left\n <i class=\"material-icons material-icons-chevron_left\"></i>\n </div>\n "
+		},
+		{
+		  "id": "chevron_right",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n chevron right\n <i class=\"material-icons material-icons-chevron_right\"></i>\n </div>\n "
+		},
+		{
+		  "id": "close",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n close\n <i class=\"material-icons material-icons-close\"></i>\n </div>\n "
+		},
+		{
+		  "id": "expand_less",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n expand less\n <i class=\"material-icons material-icons-expand_less\"></i>\n </div>\n "
+		},
+		{
+		  "id": "expand_more",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n expand more\n <i class=\"material-icons material-icons-expand_more\"></i>\n </div>\n "
+		},
+		{
+		  "id": "fullscreen",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n fullscreen\n <i class=\"material-icons material-icons-fullscreen\"></i>\n </div>\n "
+		},
+		{
+		  "id": "fullscreen_exit",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n fullscreen exit\n <i class=\"material-icons material-icons-fullscreen_exit\"></i>\n </div>\n "
+		},
+		{
+		  "id": "menu",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n menu\n <i class=\"material-icons material-icons-menu\"></i>\n </div>\n "
+		},
+		{
+		  "id": "more_horiz",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n more horiz\n <i class=\"material-icons material-icons-more_horiz\"></i>\n </div>\n "
+		},
+		{
+		  "id": "more_vert",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n more vert\n <i class=\"material-icons material-icons-more_vert\"></i>\n </div>\n "
+		},
+		{
+		  "id": "refresh",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n refresh\n <i class=\"material-icons material-icons-refresh\"></i>\n </div>\n "
+		},
+		{
+		  "id": "subdirectory_arrow_left",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n subdirectory arrow left\n <i class=\"material-icons material-icons-subdirectory_arrow_left\"></i>\n </div>\n "
+		},
+		{
+		  "id": "subdirectory_arrow_right",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n subdirectory arrow right\n <i class=\"material-icons material-icons-subdirectory_arrow_right\"></i>\n </div>\n "
+		}
+	  ]
+	},
+	{
+	  "text": "notification",
+	  "children": [
+		{
+		  "id": "adb",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n adb\n <i class=\"material-icons material-icons-adb\"></i>\n </div>\n "
+		},
+		{
+		  "id": "airline_seat_flat",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n airline seat flat\n <i class=\"material-icons material-icons-airline_seat_flat\"></i>\n </div>\n "
+		},
+		{
+		  "id": "airline_seat_flat_angled",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n airline seat flat angled\n <i class=\"material-icons material-icons-airline_seat_flat_angled\"></i>\n </div>\n "
+		},
+		{
+		  "id": "airline_seat_individual_suite",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n airline seat individual suite\n <i class=\"material-icons material-icons-airline_seat_individual_suite\"></i>\n </div>\n "
+		},
+		{
+		  "id": "airline_seat_legroom_extra",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n airline seat legroom extra\n <i class=\"material-icons material-icons-airline_seat_legroom_extra\"></i>\n </div>\n "
+		},
+		{
+		  "id": "airline_seat_legroom_normal",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n airline seat legroom normal\n <i class=\"material-icons material-icons-airline_seat_legroom_normal\"></i>\n </div>\n "
+		},
+		{
+		  "id": "airline_seat_legroom_reduced",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n airline seat legroom reduced\n <i class=\"material-icons material-icons-airline_seat_legroom_reduced\"></i>\n </div>\n "
+		},
+		{
+		  "id": "airline_seat_recline_extra",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n airline seat recline extra\n <i class=\"material-icons material-icons-airline_seat_recline_extra\"></i>\n </div>\n "
+		},
+		{
+		  "id": "airline_seat_recline_normal",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n airline seat recline normal\n <i class=\"material-icons material-icons-airline_seat_recline_normal\"></i>\n </div>\n "
+		},
+		{
+		  "id": "bluetooth_audio",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n bluetooth audio\n <i class=\"material-icons material-icons-bluetooth_audio\"></i>\n </div>\n "
+		},
+		{
+		  "id": "confirmation_number",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n confirmation number\n <i class=\"material-icons material-icons-confirmation_number\"></i>\n </div>\n "
+		},
+		{
+		  "id": "disc_full",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n disc full\n <i class=\"material-icons material-icons-disc_full\"></i>\n </div>\n "
+		},
+		{
+		  "id": "do_not_disturb",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n do not disturb\n <i class=\"material-icons material-icons-do_not_disturb\"></i>\n </div>\n "
+		},
+		{
+		  "id": "do_not_disturb_alt",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n do not disturb alt\n <i class=\"material-icons material-icons-do_not_disturb_alt\"></i>\n </div>\n "
+		},
+		{
+		  "id": "drive_eta",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n drive eta\n <i class=\"material-icons material-icons-drive_eta\"></i>\n </div>\n "
+		},
+		{
+		  "id": "enhanced_encryption",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n enhanced encryption\n <i class=\"material-icons material-icons-enhanced_encryption\"></i>\n </div>\n "
+		},
+		{
+		  "id": "event_available",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n event available\n <i class=\"material-icons material-icons-event_available\"></i>\n </div>\n "
+		},
+		{
+		  "id": "event_busy",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n event busy\n <i class=\"material-icons material-icons-event_busy\"></i>\n </div>\n "
+		},
+		{
+		  "id": "event_note",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n event note\n <i class=\"material-icons material-icons-event_note\"></i>\n </div>\n "
+		},
+		{
+		  "id": "folder_special",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n folder special\n <i class=\"material-icons material-icons-folder_special\"></i>\n </div>\n "
+		},
+		{
+		  "id": "live_tv",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n live tv\n <i class=\"material-icons material-icons-live_tv\"></i>\n </div>\n "
+		},
+		{
+		  "id": "mms",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n mms\n <i class=\"material-icons material-icons-mms\"></i>\n </div>\n "
+		},
+		{
+		  "id": "more",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n more\n <i class=\"material-icons material-icons-more\"></i>\n </div>\n "
+		},
+		{
+		  "id": "network_check",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n network check\n <i class=\"material-icons material-icons-network_check\"></i>\n </div>\n "
+		},
+		{
+		  "id": "network_locked",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n network locked\n <i class=\"material-icons material-icons-network_locked\"></i>\n </div>\n "
+		},
+		{
+		  "id": "no_encryption",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n no encryption\n <i class=\"material-icons material-icons-no_encryption\"></i>\n </div>\n "
+		},
+		{
+		  "id": "ondemand_video",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n ondemand video\n <i class=\"material-icons material-icons-ondemand_video\"></i>\n </div>\n "
+		},
+		{
+		  "id": "personal_video",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n personal video\n <i class=\"material-icons material-icons-personal_video\"></i>\n </div>\n "
+		},
+		{
+		  "id": "phone_bluetooth_speaker",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n phone bluetooth speaker\n <i class=\"material-icons material-icons-phone_bluetooth_speaker\"></i>\n </div>\n "
+		},
+		{
+		  "id": "phone_forwarded",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n phone forwarded\n <i class=\"material-icons material-icons-phone_forwarded\"></i>\n </div>\n "
+		},
+		{
+		  "id": "phone_in_talk",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n phone in talk\n <i class=\"material-icons material-icons-phone_in_talk\"></i>\n </div>\n "
+		},
+		{
+		  "id": "phone_locked",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n phone locked\n <i class=\"material-icons material-icons-phone_locked\"></i>\n </div>\n "
+		},
+		{
+		  "id": "phone_missed",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n phone missed\n <i class=\"material-icons material-icons-phone_missed\"></i>\n </div>\n "
+		},
+		{
+		  "id": "phone_paused",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n phone paused\n <i class=\"material-icons material-icons-phone_paused\"></i>\n </div>\n "
+		},
+		{
+		  "id": "power",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n power\n <i class=\"material-icons material-icons-power\"></i>\n </div>\n "
+		},
+		{
+		  "id": "sd_card",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n sd card\n <i class=\"material-icons material-icons-sd_card\"></i>\n </div>\n "
+		},
+		{
+		  "id": "sim_card_alert",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n sim card alert\n <i class=\"material-icons material-icons-sim_card_alert\"></i>\n </div>\n "
+		},
+		{
+		  "id": "sms",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n sms\n <i class=\"material-icons material-icons-sms\"></i>\n </div>\n "
+		},
+		{
+		  "id": "sms_failed",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n sms failed\n <i class=\"material-icons material-icons-sms_failed\"></i>\n </div>\n "
+		},
+		{
+		  "id": "sync",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n sync\n <i class=\"material-icons material-icons-sync\"></i>\n </div>\n "
+		},
+		{
+		  "id": "sync_disabled",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n sync disabled\n <i class=\"material-icons material-icons-sync_disabled\"></i>\n </div>\n "
+		},
+		{
+		  "id": "sync_problem",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n sync problem\n <i class=\"material-icons material-icons-sync_problem\"></i>\n </div>\n "
+		},
+		{
+		  "id": "system_update",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n system update\n <i class=\"material-icons material-icons-system_update\"></i>\n </div>\n "
+		},
+		{
+		  "id": "tap_and_play",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n tap and play\n <i class=\"material-icons material-icons-tap_and_play\"></i>\n </div>\n "
+		},
+		{
+		  "id": "time_to_leave",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n time to leave\n <i class=\"material-icons material-icons-time_to_leave\"></i>\n </div>\n "
+		},
+		{
+		  "id": "vibration",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n vibration\n <i class=\"material-icons material-icons-vibration\"></i>\n </div>\n "
+		},
+		{
+		  "id": "voice_chat",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n voice chat\n <i class=\"material-icons material-icons-voice_chat\"></i>\n </div>\n "
+		},
+		{
+		  "id": "vpn_lock",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n vpn lock\n <i class=\"material-icons material-icons-vpn_lock\"></i>\n </div>\n "
+		},
+		{
+		  "id": "wc",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n wc\n <i class=\"material-icons material-icons-wc\"></i>\n </div>\n "
+		},
+		{
+		  "id": "wifi",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n wifi\n <i class=\"material-icons material-icons-wifi\"></i>\n </div>\n "
+		}
+	  ]
+	},
+	{
+	  "text": "places",
+	  "children": [
+		{
+		  "id": "ac_unit",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n ac unit\n <i class=\"material-icons material-icons-ac_unit\"></i>\n </div>\n "
+		},
+		{
+		  "id": "airport_shuttle",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n airport shuttle\n <i class=\"material-icons material-icons-airport_shuttle\"></i>\n </div>\n "
+		},
+		{
+		  "id": "all_inclusive",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n all inclusive\n <i class=\"material-icons material-icons-all_inclusive\"></i>\n </div>\n "
+		},
+		{
+		  "id": "beach_access",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n beach access\n <i class=\"material-icons material-icons-beach_access\"></i>\n </div>\n "
+		},
+		{
+		  "id": "business_center",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n business center\n <i class=\"material-icons material-icons-business_center\"></i>\n </div>\n "
+		},
+		{
+		  "id": "casino",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n casino\n <i class=\"material-icons material-icons-casino\"></i>\n </div>\n "
+		},
+		{
+		  "id": "child_care",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n child care\n <i class=\"material-icons material-icons-child_care\"></i>\n </div>\n "
+		},
+		{
+		  "id": "child_friendly",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n child friendly\n <i class=\"material-icons material-icons-child_friendly\"></i>\n </div>\n "
+		},
+		{
+		  "id": "fitness_center",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n fitness center\n <i class=\"material-icons material-icons-fitness_center\"></i>\n </div>\n "
+		},
+		{
+		  "id": "free_breakfast",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n free breakfast\n <i class=\"material-icons material-icons-free_breakfast\"></i>\n </div>\n "
+		},
+		{
+		  "id": "golf_course",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n golf course\n <i class=\"material-icons material-icons-golf_course\"></i>\n </div>\n "
+		},
+		{
+		  "id": "hot_tub",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n hot tub\n <i class=\"material-icons material-icons-hot_tub\"></i>\n </div>\n "
+		},
+		{
+		  "id": "kitchen",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n kitchen\n <i class=\"material-icons material-icons-kitchen\"></i>\n </div>\n "
+		},
+		{
+		  "id": "pool",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n pool\n <i class=\"material-icons material-icons-pool\"></i>\n </div>\n "
+		},
+		{
+		  "id": "room_service",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n room service\n <i class=\"material-icons material-icons-room_service\"></i>\n </div>\n "
+		},
+		{
+		  "id": "rv_hookup",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n rv hookup\n <i class=\"material-icons material-icons-rv_hookup\"></i>\n </div>\n "
+		},
+		{
+		  "id": "smoke_free",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n smoke free\n <i class=\"material-icons material-icons-smoke_free\"></i>\n </div>\n "
+		},
+		{
+		  "id": "smoking_rooms",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n smoking rooms\n <i class=\"material-icons material-icons-smoking_rooms\"></i>\n </div>\n "
+		},
+		{
+		  "id": "spa",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n spa\n <i class=\"material-icons material-icons-spa\"></i>\n </div>\n "
+		}
+	  ]
+	},
+	{
+	  "text": "social",
+	  "children": [
+		{
+		  "id": "cake",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n cake\n <i class=\"material-icons material-icons-cake\"></i>\n </div>\n "
+		},
+		{
+		  "id": "domain",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n domain\n <i class=\"material-icons material-icons-domain\"></i>\n </div>\n "
+		},
+		{
+		  "id": "group",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n group\n <i class=\"material-icons material-icons-group\"></i>\n </div>\n "
+		},
+		{
+		  "id": "group_add",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n group add\n <i class=\"material-icons material-icons-group_add\"></i>\n </div>\n "
+		},
+		{
+		  "id": "location_city",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n location city\n <i class=\"material-icons material-icons-location_city\"></i>\n </div>\n "
+		},
+		{
+		  "id": "mood",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n mood\n <i class=\"material-icons material-icons-mood\"></i>\n </div>\n "
+		},
+		{
+		  "id": "mood_bad",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n mood bad\n <i class=\"material-icons material-icons-mood_bad\"></i>\n </div>\n "
+		},
+		{
+		  "id": "notifications",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n notifications\n <i class=\"material-icons material-icons-notifications\"></i>\n </div>\n "
+		},
+		{
+		  "id": "notifications_active",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n notifications active\n <i class=\"material-icons material-icons-notifications_active\"></i>\n </div>\n "
+		},
+		{
+		  "id": "notifications_none",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n notifications none\n <i class=\"material-icons material-icons-notifications_none\"></i>\n </div>\n "
+		},
+		{
+		  "id": "notifications_off",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n notifications off\n <i class=\"material-icons material-icons-notifications_off\"></i>\n </div>\n "
+		},
+		{
+		  "id": "notifications_paused",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n notifications paused\n <i class=\"material-icons material-icons-notifications_paused\"></i>\n </div>\n "
+		},
+		{
+		  "id": "pages",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n pages\n <i class=\"material-icons material-icons-pages\"></i>\n </div>\n "
+		},
+		{
+		  "id": "party_mode",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n party mode\n <i class=\"material-icons material-icons-party_mode\"></i>\n </div>\n "
+		},
+		{
+		  "id": "people",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n people\n <i class=\"material-icons material-icons-people\"></i>\n </div>\n "
+		},
+		{
+		  "id": "people_outline",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n people outline\n <i class=\"material-icons material-icons-people_outline\"></i>\n </div>\n "
+		},
+		{
+		  "id": "person",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n person\n <i class=\"material-icons material-icons-person\"></i>\n </div>\n "
+		},
+		{
+		  "id": "person_add",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n person add\n <i class=\"material-icons material-icons-person_add\"></i>\n </div>\n "
+		},
+		{
+		  "id": "person_outline",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n person outline\n <i class=\"material-icons material-icons-person_outline\"></i>\n </div>\n "
+		},
+		{
+		  "id": "plus_one",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n plus one\n <i class=\"material-icons material-icons-plus_one\"></i>\n </div>\n "
+		},
+		{
+		  "id": "poll",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n poll\n <i class=\"material-icons material-icons-poll\"></i>\n </div>\n "
+		},
+		{
+		  "id": "public",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n public\n <i class=\"material-icons material-icons-public\"></i>\n </div>\n "
+		},
+		{
+		  "id": "school",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n school\n <i class=\"material-icons material-icons-school\"></i>\n </div>\n "
+		},
+		{
+		  "id": "share",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n share\n <i class=\"material-icons material-icons-share\"></i>\n </div>\n "
+		},
+		{
+		  "id": "whatshot",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n whatshot\n <i class=\"material-icons material-icons-whatshot\"></i>\n </div>\n "
+		}
+	  ]
+	},
+	{
+	  "text": "toggle",
+	  "children": [
+		{
+		  "id": "check_box",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n check box\n <i class=\"material-icons material-icons-check_box\"></i>\n </div>\n "
+		},
+		{
+		  "id": "check_box_outline_blank",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n check box outline blank\n <i class=\"material-icons material-icons-check_box_outline_blank\"></i>\n </div>\n "
+		},
+		{
+		  "id": "indeterminate_check_box",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n indeterminate check box\n <i class=\"material-icons material-icons-indeterminate_check_box\"></i>\n </div>\n "
+		},
+		{
+		  "id": "radio_button_checked",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n radio button checked\n <i class=\"material-icons material-icons-radio_button_checked\"></i>\n </div>\n "
+		},
+		{
+		  "id": "radio_button_unchecked",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n radio button unchecked\n <i class=\"material-icons material-icons-radio_button_unchecked\"></i>\n </div>\n "
+		},
+		{
+		  "id": "star",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n star\n <i class=\"material-icons material-icons-star\"></i>\n </div>\n "
+		},
+		{
+		  "id": "star_border",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n star border\n <i class=\"material-icons material-icons-star_border\"></i>\n </div>\n "
+		},
+		{
+		  "id": "star_half",
+		  "text": "\n <div class=\"cf-icon-field-item\">\n star half\n <i class=\"material-icons material-icons-star_half\"></i>\n </div>\n "
+		}
+	  ]
+	}
+  ]

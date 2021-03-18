@@ -1,0 +1,26 @@
+/* Theme Page */
+
+.theme-browser {
+
+    .theme {
+        background-color: var(--primary_background_color);
+        border-radius: 5px;
+        overflow: hidden;
+        border: none;
+
+        .theme-name {
+            background-color: var(--secondary_background_color);
+        }        
+    
+        .theme-actions {
+            background-color: rgba(0, 0, 0, 0.5);
+        }
+
+        &.active {
+            .theme-name, .theme-actions {
+                background: rgba(0, 0, 0, 0.3);
+            }
+        }
+    }
+
+}

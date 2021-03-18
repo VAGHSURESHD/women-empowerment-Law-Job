@@ -1,0 +1,29 @@
+/* tables */
+
+table {
+
+    tfoot tr td,
+    tfoot tr th,
+    thead tr td,
+    thead tr th,
+    .comment-grey-bubble:before,
+    .sorting-indicator:before {
+        color: var(--secondary_text_color)  !important;
+    }
+
+    td, th {
+        color: var(--primary_text_color) !important;
+        border-top-color: var(--primary_background_color) !important;
+        border-bottom-color: var(--primary_background_color) !important;
+    }
+    
+    th.sortable a, th.sorted a {
+        padding: 10px 10px;
+    }    
+
+    
+}
+
+.tablenav.bottom {
+    display: none !important;
+}

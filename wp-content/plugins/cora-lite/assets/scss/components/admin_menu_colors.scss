@@ -1,0 +1,89 @@
+/* Transitions */
+
+#adminmenumain #adminmenu {
+    li.menu-top, a.menu-top, .wp-menu-image:before {
+        &, &:hover{
+            transition: all 0.3s;
+        }
+    }
+}
+
+/* Mneu Background */
+#adminmenumain {
+
+    #adminmenu, #adminmenuback, #adminmenuwrap{
+    
+        background-color: var(--menu_background);
+    
+    }
+
+}
+
+/* Main Items */
+
+#adminmenumain #adminmenu {
+
+    li.menu-top:not(.wp-has-current-submenu){
+        
+        a.menu-top, .wp-menu-image:before {
+
+            color: var(--menu_item_text);
+
+        }
+        
+        &:hover, &.opensub {
+
+            & , a.menu-top {
+                background-color: var(--menu_highlight_background);
+                color: var(--menu_highlight_text);
+            }
+
+            .wp-menu-image:before {
+                color: var(--menu_highlight_text);
+            }
+
+        }
+
+    }
+
+    .wp-has-current-submenu, li.current.menu-top{
+        a.menu-top {
+            background-color: var(--menu_highlight_background);
+            color: var(--menu_highlight_text);
+        }
+
+        .wp-menu-image:before {
+            color: var(--menu_highlight_text);
+        }
+    }
+}
+
+/* Submenu */
+
+#adminmenumain #adminmenu .wp-submenu {
+
+    background-color: var(--menu_submenu_background) !important;
+    
+    a {
+        color: var(--menu_submenu_item_text);
+
+        &:hover, &:active{
+            color: var(--menu_submenu_highlight_text);
+        }
+    }
+
+    li.current a{
+        color: var(--menu_submenu_highlight_text);
+    }
+
+}
+
+/* collapse-button */
+
+#collapse-button {
+    color: var(--menu_item_text);
+    
+    &:hover {
+        color: var(--menu_highlight_text);
+    }
+}

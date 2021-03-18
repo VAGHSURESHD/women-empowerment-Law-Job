@@ -1,0 +1,226 @@
+/* Settings Pgae */
+
+html body #cf {
+    .cf-body {
+        background: rgba(0, 0, 0, 0.05);
+        margin-top: 25px;
+        min-height: 580px;
+        overflow: hidden;
+    }
+    
+    .cf-header {
+
+        h1 {
+            color: var(--primary_text_color);
+            line-height: 25px;
+            font-size: 25px;
+            font-weight: 700;
+            font-family: Josefin Sans,sans-serif;
+        }
+        
+        span {
+            background: rgba(0,0,0,.065);
+            color: var(--secondary_text_color);
+            margin: 16px 0 18px 20px;
+            line-height: 22px;
+        }
+
+    }
+
+    .cf-nav {
+        background: rgba(0, 0, 0, 0.035);
+
+        li {
+            color: var(--primary_text_color);
+            opacity: 0.35;
+                    
+            &.active {
+                color: var(--primary_text_color);
+                background: rgba(0, 0, 0, 0.065);
+                opacity: 1;
+            }
+        }
+
+    }
+    
+    .cf-content {
+        h2 {
+            color: var(--primary_text_color);
+        }
+
+        .cf-field {
+            .cf-field-title {
+                color: var(--primary_text_color);
+                width: 40%;
+            }
+            
+            .cf-item-field-controls {
+                float: left;
+                width: 55%;
+            }
+        }
+    }
+
+    //  Seprater
+    .cora-separator {
+        background: rgba(0,0,0,.1);
+        padding: 8px 16px;
+        border-radius: 3px;
+        width: fit-content;
+        margin: 0px 0px 15px 0px;
+    }
+
+    .cf-save {
+        position: absolute;
+        bottom: 20px;
+        left: 20px;
+        width: 150px;
+        height: 38px;
+        line-height: 34px;
+        text-align: center;
+        font-weight: 700;
+        border-radius: 3px;
+        cursor: pointer;
+    }
+    
+    [section="theme"] .cf-demo-field {
+        margin-top: -15px;
+    }
+}
+
+/* Fields */
+
+html body.wp-admin.toplevel_page_cora {
+
+    input[type=number],
+    input[type=password],
+    input[type=text],
+    select,
+    textarea {
+        background-color: rgba(0,0,0,.035) !important;
+        
+        &:hover {
+            background-color: rgba(0, 0, 0, 0.15) !important;
+        }
+    }        
+
+
+    // Repeater field
+    .cf-repeater-item {
+        background: var(--secondary_background_color);
+        box-shadow: 0 10px 10px rgba(0, 0, 0, .05);
+
+        .cf-repeater-item-head {
+            span {
+                color: var(--secondary_text_color);
+            }
+
+            svg {
+                fill: var(--secondary_text_color);
+            }
+
+            i.cf-status-arrow {
+                color: var(--secondary_text_color);
+            }
+        }
+
+        .cf-repeater-item-fields {
+            border-top: 1px solid rgba(0, 0, 0, 0.065);
+            
+            .cf-repeater-item-field {
+
+                .cf-repeater-item-title {
+                    color: var(--secondary_text_color);
+                }
+                
+                .select2-selection {
+                    border: 1px solid rgba(0, 0, 0, 0.065) !important;
+                }
+            }
+        }
+        
+    }
+        
+    // Select field
+
+    .select2-dropdown, .select2-selection--multiple {
+        background-color: var(--secondary_background_color) !important;
+    }
+
+    .select2-container--default .select2-selection--single {
+        background-color: var(--secondary_background_color);
+        box-shadow: 0 10px 10px rgba(0, 0, 0, .05);
+
+        .select2-selection__rendered {
+            color: var(--primary_text_color);
+        }
+    }
+    
+    .select2-container--default .select2-search--inline .select2-search__field {
+        background-color: transparent !important;
+    }
+
+    .select2-container--default .select2-selection--multiple .select2-selection__choice {
+        background: rgba(0, 0, 0, 0.1);
+        border-color: rgba(0, 0, 0, 0.1);
+        margin-bottom: 0;
+    }
+    
+    .select2-container--default .select2-selection--multiple .select2-selection__choice__remove {
+        margin-right: 3px;
+    }
+    
+    // Color field
+    
+    .pickr .pcr-button:before {
+        display: none;
+    }
+
+    // Switch
+    .cf-switch-inner.false span {
+        background-color: rgba(0, 0, 0, 0.065);
+    }
+
+    // Demo
+    .cf-demo-field {
+        margin-top: -5px;
+
+        .cf-demo {
+            border: none;
+            border-radius: 3px;
+            box-shadow: 0 0 15px rgba(0,0,0,.065);
+            background: var(--secondary_background_color);
+            border: 1px solid rgba(0,0,0,.12);
+            height: 200px;
+            position: relative;
+            
+            img {
+                width: 420px;
+                height: auto;
+                float: left;
+            }
+
+            .cf-demo-bottom {
+                padding: 9px 15px;
+                float: left;
+                width: 100%;
+                box-sizing: border-box;
+                line-height: 26px;
+                position: absolute;
+                bottom: 0;
+                z-index: 10;
+                background: var(--secondary_background_color);
+                border-top: 1px solid rgba(0,0,0,.015);
+                                
+                span {
+                    color: var(--secondary_text_color);
+                }
+            }
+        }
+    }
+
+    // Image
+    .cf-image-field input {
+        margin-right: 1px;
+    }    
+}

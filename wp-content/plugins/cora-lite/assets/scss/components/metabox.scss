@@ -1,0 +1,51 @@
+/* Meta Boxes */
+
+.postbox, .stuffbox{
+    border: none;
+    box-shadow: none;
+    background: var(--secondary_background_color);
+    border-radius: 5px;
+    overflow: hidden;
+
+    div, li, ul, ol, p, span{
+        border-color: transparent !important;
+    }
+
+    .inside {
+        padding: 0 18px 18px;
+        margin: 18px 0;
+    }    
+}
+
+.metabox-holder {
+    .postbox-header {
+        border-color:rgba(0,0,0,.045) !important;
+    }
+
+    .postbox>h3, .stuffbox>h3, h2.hndle, h3.hndle {
+        font-size: 13px;
+        padding: 12px 18px!important;
+        font-weight: 700;
+        padding-bottom: 14px;
+        border-bottom: none;
+    }
+
+    .postbox .handlediv {
+        width: 44px;
+        height: 44px;
+        
+        .toggle-indicator:before {
+            margin-top: 1px;
+        }
+
+    }
+    
+}
+
+.handle-order-higher, .handle-order-lower {
+    display: none;
+}
+
+.accordion-section-title:after, .handlediv, .item-edit, .postbox .handlediv.button-link, .toggle-indicator {
+    color: rgba(0,0,0,.25);
+}

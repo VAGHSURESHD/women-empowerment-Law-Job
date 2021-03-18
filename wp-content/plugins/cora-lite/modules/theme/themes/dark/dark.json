@@ -1,0 +1,28 @@
+{
+    "theme" : {
+        "shadows" : false,
+        "primary_background_color" : "#39414a",
+        "secondary_background_color" : "#424b56",
+        "primary_text_color" : "#ffffff",
+        "secondary_text_color" : "#c9c9ce",
+        "link_color" : "#6c8fc3",
+        "menu_background" : "#424b56",
+        "menu_item_text" : "rgba(255, 255, 255, 0.15)",
+        "menu_highlight_text" : "rgba(255, 255, 255, 0.9)",
+        "menu_highlight_background" : "#02B875",
+        "menu_submenu_background" : "rgb(66, 75, 86)",
+        "menu_submenu_item_text" : "rgba(255, 255, 255, 0.2)",
+        "menu_submenu_highlight_text" : "rgba(255, 255, 255, 0.9)",
+        "menu_logo_text" : "rgba(255, 255, 255, 0.9)",
+        "toolbar_background" : "#39414a",
+        "toolbar_item_text" : "rgba(255, 255, 255, 0.4)",
+        "toolbar_highlight_text" : "rgba(255, 255, 255, 0.9)",
+        "toolbar_highlight_background" : "#2c333e",
+        "primary_button_color" : "#02B875",
+        "primary_button_text" : "#ffffff",
+        "secondary_button_color" : "#434d5d",
+        "secondary_button_text" : "#f1ecec",
+        "forms_field_background" : "rgba(62, 68, 80, 1)",
+        "forms_field_border" : "rgba(62, 68, 80, 1)"
+    }
+}
